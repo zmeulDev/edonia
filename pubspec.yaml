@@ -1,0 +1,40 @@
+name: edonia
+description: "Edonia: A high-precision privacy watcher for Android 15+"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  
+  # State Management
+  flutter_riverpod: ^2.5.1
+  
+  # UI & Visualization
+  fl_chart: ^0.66.0
+  
+  # Permissions & App Info
+  permission_handler: ^11.3.1
+  device_apps: ^2.2.0
+  device_info_plus: ^10.1.0
+  
+  # The Watcher Engines
+  flutter_app_usage_kit: any
+  screen_time_kit: any
+  
+  # Storage & Metadata
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  shared_preferences: ^2.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
