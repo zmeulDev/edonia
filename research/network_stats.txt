@@ -1,0 +1,504 @@
+Directory:
+  /data/misc/apexdata/com.android.tethering/netstats
+Configs:
+  netstats_combine_subtype_enabled=false 
+  netstats_store_files_in_apexdata=true 
+  netstats_import_legacy_target_attempts=1 
+  platform legacy stats import attempts count=1 
+  platform legacy stats import successes count=1 
+  platform legacy stats import fallbacks count=0 
+  enable_network_stats_event_logger: true
+  store_transport_types: true
+  netstats_fastdatainput_target_attempts=0 
+  FastDataInput successes=0 
+  FastDataInput fallbacks=0 
+  trafficstats.client.cache.config=TrafficStatsRateLimitCacheConfig{isCacheEnabled: true, expiryDurationMs: 1000, maxEntries: 400} 
+Active interfaces:
+  iface=rmnet_data0 ident=[{type=0, ratType=-2, subscriberId=226050..., metered=true, defaultNetwork=false, oemManaged=OEM_NONE, subId=1, transports={0}}] 
+  iface=rmnet_data1 ident=[{type=0, ratType=-2, subscriberId=226050..., metered=false, defaultNetwork=false, oemManaged=OEM_NONE, subId=1, transports={0}}] 
+  iface=vt_data01 ident=[{type=0, ratType=-2, subscriberId=226050..., metered=true, defaultNetwork=true, oemManaged=OEM_NONE, subId=1, transports={}}] 
+  iface=wlan0 ident=[{type=1, ratType=COMBINED, wifiNetworkKey="zml"wpa2-psk, metered=false, defaultNetwork=true, oemManaged=OEM_NONE, subId=-1, transports={1}}] 
+Active UID interfaces:
+  iface=rmnet_data0 ident=[{type=0, ratType=-2, subscriberId=226050..., metered=true, defaultNetwork=false, oemManaged=OEM_NONE, subId=1, transports={0}}] 
+  iface=rmnet_data1 ident=[{type=0, ratType=-2, subscriberId=226050..., metered=false, defaultNetwork=false, oemManaged=OEM_NONE, subId=1, transports={0}}] 
+  iface=vt_data01 ident=[{type=0, ratType=-2, subscriberId=226050..., metered=true, defaultNetwork=true, oemManaged=OEM_NONE, subId=1, transports={}}] 
+  iface=wlan0 ident=[{type=1, ratType=COMBINED, wifiNetworkKey="zml"wpa2-psk, metered=false, defaultNetwork=true, oemManaged=OEM_NONE, subId=-1, transports={1}}] 
+All wifi interfaces:
+  wlan0 
+All mobile interfaces:
+  rmnet_data0 rmnet_data1 
+Top openSession callers:
+  {uid=1000,package=android}=10444
+  {uid=10168,package=com.microsoft.appmanager}=34
+  {uid=1000,package=com.android.settings}=14
+  {uid=10288,package=com.android.vending}=11
+  {uid=10287,package=com.google.android.apps.messaging}=4
+
+Poll counts per reason:
+  DUMPSYS: 0
+  FORCE_UPDATE: 1613
+  GLOBAL_ALERT: 1364
+  NETWORK_STATUS_CHANGED: 50
+  OPEN_SESSION: 38
+  PERIODIC: 80
+  RAT_CHANGED: 52
+  REG_CALLBACK: 17
+  REMOVE_UIDS: 0
+  UPSTREAM_CHANGED: 1
+
+Recent poll events:
+  2026-10-30T18:45:17.052144 - Poll(flags=1, PollEvent{reason=GLOBAL_ALERT})
+  2026-10-30T18:44:03.873936 - Poll(flags=1, PollEvent{reason=RAT_CHANGED})
+  2026-10-30T18:43:59.421867 - Poll(flags=1, PollEvent{reason=RAT_CHANGED})
+  2026-10-30T18:43:49.794087 - Poll(flags=3, PollEvent{reason=OPEN_SESSION})
+  2026-10-30T18:43:32.955984 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:43:15.875115 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:42:28.191559 - Poll(flags=3, PollEvent{reason=PERIODIC})
+  2026-10-30T18:42:01.287548 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:41:45.178879 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:41:30.070365 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:41:14.302164 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:40:42.049938 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:40:26.743305 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:40:24.804629 - Poll(flags=1, PollEvent{reason=GLOBAL_ALERT})
+  2026-10-30T18:40:05.949784 - Poll(flags=1, PollEvent{reason=GLOBAL_ALERT})
+  2026-10-30T18:39:42.090795 - Poll(flags=1, PollEvent{reason=GLOBAL_ALERT})
+  2026-10-30T18:39:36.255984 - Poll(flags=1, PollEvent{reason=GLOBAL_ALERT})
+  2026-10-30T18:39:27.227115 - Poll(flags=1, PollEvent{reason=GLOBAL_ALERT})
+  2026-10-30T18:39:22.511989 - Poll(flags=1, PollEvent{reason=GLOBAL_ALERT})
+  2026-10-30T18:38:36.303358 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:38:05.990483 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:37:49.411284 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:37:21.376455 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:37:04.136967 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:36:48.184421 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:24:13.887028 - Poll(flags=1, PollEvent{reason=GLOBAL_ALERT})
+  2026-10-30T18:22:03.830555 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:20:11.969415 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:18:50.256058 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:18:32.058731 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:18:01.951033 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:16:39.433631 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:16:24.151693 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:16:08.949184 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:15:48.544817 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:14:29.984462 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:14:00.083159 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:13:23.917493 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:12:57.508022 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:12:42.137207 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:12:21.956920 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:11:53.955149 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:11:38.532388 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:11:30.277731 - Poll(flags=3, PollEvent{reason=PERIODIC})
+  2026-10-30T18:11:22.919306 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:11:07.362676 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:10:50.211799 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:10:34.960863 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:10:18.787443 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+  2026-10-30T18:10:01.854474 - Poll(flags=3, PollEvent{reason=FORCE_UPDATE})
+
+Stats Providers:
+  OffloadController Xt:
+    NetworkStats: elapsedRealtime=0
+  BpfCoordinator Xt:
+    NetworkStats: elapsedRealtime=0
+  ImsPhoneCallTracker Xt:
+    NetworkStats: elapsedRealtime=0
+  ImsPhoneCallTracker Xt:
+    NetworkStats: elapsedRealtime=0
+
+Stats Observers:
+  RequestInfo from pid/uid:14875/1000(android) for DataUsageRequest [ requestId=1, networkTemplate=NetworkTemplate: matchRule=MOBILE, matchSubscriberIds=[], matchWifiNetworkKeys=[], thresholdInBytes=0 ] accessLevel:3
+  RequestInfo from pid/uid:14875/1000(android) for DataUsageRequest [ requestId=2, networkTemplate=NetworkTemplate: matchRule=WIFI, matchSubscriberIds=[], matchWifiNetworkKeys=[], thresholdInBytes=0 ] accessLevel:3
+
+Dev stats:
+  Pending bytes: 
+  History since boot:
+Xt stats:
+  Pending bytes: 0
+  History since boot:
+  ident=[{type=0, ratType=-2, subscriberId=226050..., metered=false, defaultNetwork=false, oemManaged=OEM_NONE, subId=1, transports={0}}] uid=-1 set=ALL tag=0x0
+    NetworkStatsHistory: bucketDuration=3600
+      st=1793253600 rb=1581 rp=4 tb=2139 tp=2 op=0
+      st=1793257200 rb=5563 rp=11 tb=5559 tp=11 op=0
+      st=1793260800 rb=4145 rp=11 tb=3422 tp=9 op=0
+      st=1793264400 rb=1502 rp=2 tb=2141 tp=2 op=0
+      st=1793268000 rb=4181 rp=12 tb=3419 tp=9 op=0
+      st=1793271600 rb=1582 rp=4 tb=2139 tp=2 op=0
+      st=1793275200 rb=5563 rp=11 tb=5561 tp=11 op=0
+      st=1793278800 rb=4200 rp=12 tb=3423 tp=9 op=0
+      st=1793286000 rb=4143 rp=11 tb=3420 tp=9 op=0
+      st=1793289600 rb=1501 rp=2 tb=2140 tp=2 op=0
+      st=1793293200 rb=4063 rp=9 tb=3421 tp=9 op=0
+      st=1793325600 rb=1502 rp=2 tb=2140 tp=2 op=0
+      st=1793329200 rb=5423 rp=8 tb=5370 tp=7 op=0
+      st=1793332800 rb=3920 rp=6 tb=3229 tp=5 op=0
+      st=1793336400 rb=1500 rp=2 tb=2140 tp=2 op=0
+      st=1793340000 rb=4187 rp=12 tb=3422 tp=9 op=0
+      st=1793343600 rb=7956 rp=27 tb=8458 tp=15 op=0
+      st=1793347200 rb=5563 rp=11 tb=5504 tp=10 op=0
+      st=1793350800 rb=11419 rp=71 tb=9604 tp=14 op=0
+      st=1793354400 rb=1502 rp=2 tb=2140 tp=2 op=0
+      st=1793358000 rb=4142 rp=11 tb=3420 tp=9 op=0
+      st=1793361600 rb=1500 rp=2 tb=2139 tp=2 op=0
+      st=1793368800 rb=4181 rp=12 tb=3420 tp=9 op=0
+      st=1793376000 rb=4144 rp=11 tb=3421 tp=9 op=0
+  ident=[{type=0, ratType=-2, subscriberId=226050..., metered=true, defaultNetwork=false, oemManaged=OEM_NONE, subId=1, transports={0}}] uid=-1 set=ALL tag=0x0
+    NetworkStatsHistory: bucketDuration=3600
+      st=1793347200 rb=94 rp=1 tb=304 tp=4 op=0
+      st=1793358000 rb=0 rp=0 tb=128 tp=2 op=0
+      st=1793365200 rb=10484 rp=51 tb=10496 tp=37 op=0
+  ident=[{type=0, ratType=-2, subscriberId=226050..., metered=true, defaultNetwork=true, oemManaged=OEM_NONE, subId=1, transports={0}}] uid=-1 set=ALL tag=0x0
+    NetworkStatsHistory: bucketDuration=3600
+      st=1793343600 rb=63046810 rp=51400 tb=15479571 tp=22985 op=0
+      st=1793347200 rb=617560 rp=1846 tb=646413 tp=1808 op=0
+      st=1793358000 rb=4323715 rp=3907 tb=592807 tp=1377 op=0
+      st=1793361600 rb=100496424 rp=80712 tb=6146623 tp=28704 op=0
+      st=1793365200 rb=50377948 rp=39657 tb=1963475 tp=12557 op=0
+  ident=[{type=0, ratType=0, subscriberId=226050..., metered=true, defaultNetwork=true, oemManaged=OEM_NONE, subId=1, transports={0}}] uid=-1 set=ALL tag=0x0
+    NetworkStatsHistory: bucketDuration=3600
+      st=1793343600 rb=0 rp=0 tb=9050 tp=74 op=0
+      st=1793365200 rb=60884 rp=178 tb=132166 tp=623 op=0
+  ident=[{type=0, ratType=13, subscriberId=226050..., metered=false, defaultNetwork=false, oemManaged=OEM_NONE, subId=1, transports={0}}] uid=-1 set=ALL tag=0x0
+    NetworkStatsHistory: bucketDuration=3600
+      st=1793235600 rb=6804 rp=10 tb=2718 tp=12 op=0
+      st=1793239200 rb=5977 rp=11 tb=6546 tp=10 op=0
+      st=1793242800 rb=3913 rp=6 tb=3226 tp=5 op=0
+      st=1793246400 rb=1503 rp=2 tb=2139 tp=2 op=0
+      st=1793250000 rb=3919 rp=6 tb=3228 tp=5 op=0
+      st=1793282400 rb=1502 rp=2 tb=2142 tp=2 op=0
+      st=1793289600 rb=80 rp=2 tb=0 tp=0 op=0
+      st=1793293200 rb=1500 rp=2 tb=2140 tp=2 op=0
+      st=1793296800 rb=4144 rp=11 tb=3421 tp=9 op=0
+      st=1793300400 rb=3514 rp=14 tb=4313 tp=18 op=0
+      st=1793304000 rb=3916 rp=6 tb=3227 tp=5 op=0
+      st=1793307600 rb=1501 rp=2 tb=2139 tp=2 op=0
+      st=1793311200 rb=5422 rp=8 tb=5423 tp=8 op=0
+      st=1793314800 rb=3920 rp=6 tb=3229 tp=5 op=0
+      st=1793318400 rb=1504 rp=2 tb=2141 tp=2 op=0
+      st=1793322000 rb=3918 rp=6 tb=3228 tp=5 op=0
+      st=1793361600 rb=80 rp=2 tb=0 tp=0 op=0
+      st=1793365200 rb=5604 rp=12 tb=5561 tp=11 op=0
+      st=1793372400 rb=1499 rp=2 tb=2139 tp=2 op=0
+  ident=[{type=0, ratType=13, subscriberId=226050..., metered=true, defaultNetwork=false, oemManaged=OEM_NONE, subId=1, transports={0}}] uid=-1 set=ALL tag=0x0
+    NetworkStatsHistory: bucketDuration=3600
+      st=1793235600 rb=8402 rp=47 tb=9732 tp=39 op=0
+      st=1793239200 rb=598 rp=5 tb=933 tp=11 op=0
+      st=1793325600 rb=40 rp=1 tb=4163 tp=69 op=0
+      st=1793340000 rb=0 rp=0 tb=128 tp=2 op=0
+      st=1793365200 rb=0 rp=0 tb=188 tp=3 op=0
+      st=1793368800 rb=798 rp=14 tb=1287 tp=15 op=0
+  ident=[{type=0, ratType=13, subscriberId=226050..., metered=true, defaultNetwork=true, oemManaged=OEM_NONE, subId=1, transports={0}}] uid=-1 set=ALL tag=0x0
+    NetworkStatsHistory: bucketDuration=3600
+      st=1793235600 rb=166626 rp=271 tb=61064 tp=291 op=0
+      st=1793239200 rb=21313 rp=112 tb=55137 tp=674 op=0
+      st=1793325600 rb=21164 rp=99 tb=38883 tp=479 op=0
+      st=1793340000 rb=23162131 rp=17704 tb=682951 tp=4102 op=0
+      st=1793343600 rb=13349 rp=74 tb=37208 tp=231 op=0
+      st=1793347200 rb=390812 rp=649 tb=149492 tp=516 op=0
+      st=1793361600 rb=57760658 rp=48651 tb=4656877 tp=12186 op=0
+      st=1793365200 rb=37770552 rp=29721 tb=1701998 tp=10902 op=0
+      st=1793368800 rb=141305 rp=577 tb=228098 tp=528 op=0
+  ident=[{type=1, ratType=COMBINED, wifiNetworkKey="Yardi Guest"wpa2-psk, metered=false, defaultNetwork=false, oemManaged=OEM_NONE, subId=-1, transports={1}}] uid=-1 set=ALL tag=0x0
+    NetworkStatsHistory: bucketDuration=3600
+      st=1793347200 rb=6372 rp=39 tb=6279 tp=49 op=0
+  ident=[{type=1, ratType=COMBINED, wifiNetworkKey="Yardi Guest"wpa2-psk, metered=false, defaultNetwork=true, oemManaged=OEM_NONE, subId=-1, transports={1}}] uid=-1 set=ALL tag=0x0
+    NetworkStatsHistory: bucketDuration=3600
+      st=1793347200 rb=134710301 rp=113531 tb=22359081 tp=55166 op=0
+      st=1793350800 rb=16018999 rp=81790 tb=2563452 tp=15995 op=0
+      st=1793354400 rb=27029440 rp=97789 tb=2384757 tp=14364 op=0
+      st=1793358000 rb=86295972 rp=134123 tb=5254649 tp=27171 op=0
+  ident=[{type=1, ratType=COMBINED, wifiNetworkKey="zml"wpa2-psk, metered=false, defaultNetwork=false, oemManaged=OEM_NONE, subId=-1, transports={1}}] uid=-1 set=ALL tag=0x0
+    NetworkStatsHistory: bucketDuration=3600
+      st=1793235600 rb=22975 rp=53 tb=8548 tp=61 op=0
+      st=1793239200 rb=84559 rp=263 tb=45006 tp=217 op=0
+      st=1793325600 rb=57812 rp=203 tb=31261 tp=145 op=0
+      st=1793365200 rb=27193 rp=70 tb=11884 tp=94 op=0
+      st=1793368800 rb=24446 rp=58 tb=10150 tp=79 op=0
+  ident=[{type=1, ratType=COMBINED, wifiNetworkKey="zml"wpa2-psk, metered=false, defaultNetwork=true, oemManaged=OEM_NONE, subId=-1, transports={1}}] uid=-1 set=ALL tag=0x0
+    NetworkStatsHistory: bucketDuration=3600
+      st=1793235600 rb=6370069 rp=9332 tb=2003375 tp=8989 op=0
+      st=1793239200 rb=909849 rp=2818 tb=436910 tp=2129 op=0
+      st=1793242800 rb=1544766 rp=4371 tb=815901 tp=3812 op=0
+      st=1793246400 rb=826739 rp=2722 tb=385341 tp=2196 op=0
+      st=1793250000 rb=115379459 rp=98612 tb=3434283 tp=14330 op=0
+      st=1793253600 rb=572855572 rp=489238 tb=44965296 tp=77312 op=0
+      st=1793257200 rb=61184728 rp=56492 tb=2640141 tp=13112 op=0
+      st=1793260800 rb=242088086 rp=210409 tb=8242945 tp=28064 op=0
+      st=1793264400 rb=120924328 rp=100360 tb=4228094 tp=16767 op=0
+      st=1793268000 rb=97787839 rp=85380 tb=5596713 tp=17173 op=0
+      st=1793271600 rb=57194449 rp=51609 tb=3110018 tp=11739 op=0
+      st=1793275200 rb=30927051 rp=27915 tb=1922836 tp=8278 op=0
+      st=1793278800 rb=39809944 rp=35423 tb=1970857 tp=7535 op=0
+      st=1793282400 rb=147061993 rp=124599 tb=6257830 tp=20127 op=0
+      st=1793286000 rb=210802401 rp=176097 tb=6863120 tp=22109 op=0
+      st=1793289600 rb=6645823 rp=10280 tb=1751168 tp=7820 op=0
+      st=1793293200 rb=131890710 rp=113968 tb=9149552 tp=23533 op=0
+      st=1793296800 rb=959970973 rp=790059 tb=24242052 tp=80141 op=0
+      st=1793300400 rb=453662909 rp=377719 tb=29706556 tp=66712 op=0
+      st=1793304000 rb=215486572 rp=167743 tb=5776653 tp=23012 op=0
+      st=1793307600 rb=1331612 rp=3862 tb=680927 tp=3155 op=0
+      st=1793311200 rb=915458 rp=3158 tb=658885 tp=2751 op=0
+      st=1793314800 rb=734631 rp=2534 tb=378274 tp=1982 op=0
+      st=1793318400 rb=167218864 rp=126766 tb=2321018 tp=17713 op=0
+      st=1793322000 rb=791462 rp=2614 tb=385044 tp=2226 op=0
+      st=1793325600 rb=73924072 rp=64827 tb=5569213 tp=18168 op=0
+      st=1793329200 rb=1329731 rp=3427 tb=589306 tp=2805 op=0
+      st=1793332800 rb=1083934 rp=3185 tb=552270 tp=2689 op=0
+      st=1793336400 rb=245821666 rp=201035 tb=6746598 tp=24067 op=0
+      st=1793340000 rb=10425535 rp=13186 tb=1940781 tp=11395 op=0
+      st=1793365200 rb=1156086 rp=3680 tb=582144 tp=2953 op=0
+      st=1793368800 rb=46232950 rp=54382 tb=4877431 tp=24077 op=0
+      st=1793372400 rb=332342410 rp=287047 tb=9906154 tp=35615 op=0
+      st=1793376000 rb=157104112 rp=136079 tb=4150068 tp=17202 op=0
+  ident=[{type=1, ratType=COMBINED, wifiNetworkKey="zml"wpa2-psk, metered=false, defaultNetwork=true, oemManaged=OEM_NONE, subId=-1, transports={1}}, {type=1, ratType=COMBINED, wifiNetworkKey="zml"wpa2-psk, metered=false, defaultNetwork=false, oemManaged=OEM_NONE, subId=-1, transports={1}}] uid=-1 set=ALL tag=0x0
+    NetworkStatsHistory: bucketDuration=3600
+      st=1793239200 rb=3179 rp=19 tb=3300 tp=28 op=0
+      st=1793325600 rb=3291 rp=20 tb=3300 tp=28 op=0
+
+InterfaceMapHelper:
+  BPF map status:
+    IfaceIndexNameMap: OK
+  BPF map content:
+    IfaceIndexNameMap:
+      ifaceIndex=20 ifaceName=epdg7
+      ifaceIndex=45 ifaceName=wlan0
+      ifaceIndex=2 ifaceName=dummy0
+      ifaceIndex=22 ifaceName=epdg5
+      ifaceIndex=17 ifaceName=epdg1
+      ifaceIndex=28 ifaceName=epdg12
+      ifaceIndex=79 ifaceName=rmnet_data1
+      ifaceIndex=65 ifaceName=rmnet_data2
+      ifaceIndex=19 ifaceName=epdg3
+      ifaceIndex=21 ifaceName=epdg4
+      ifaceIndex=78 ifaceName=rmnet_data0
+      ifaceIndex=93 ifaceName=rmnet_data0
+      ifaceIndex=29 ifaceName=epdg13
+      ifaceIndex=23 ifaceName=epdg8
+      ifaceIndex=94 ifaceName=rmnet_data1
+      ifaceIndex=24 ifaceName=epdg6
+      ifaceIndex=49 ifaceName=rmnet_data1
+      ifaceIndex=27 ifaceName=epdg11
+      ifaceIndex=16 ifaceName=epdg0
+      ifaceIndex=1 ifaceName=lo
+      ifaceIndex=26 ifaceName=epdg10
+      ifaceIndex=25 ifaceName=epdg9
+      ifaceIndex=63 ifaceName=rmnet_data0
+      ifaceIndex=18 ifaceName=epdg2
+
+BPF map status:
+  mCookieTagMap: OK
+  mUidCounterSetMap: OK
+  mAppUidStatsMap: OK
+  mStatsMapA: OK
+  mStatsMapB: OK
+  mIfaceStatsMap: OK
+
+BPF map content:
+  mCookieTagMap:
+    cookie=1883093 tag=0x2600 uid=10320
+    cookie=1883073 tag=0xfffffe01 uid=1073
+    cookie=2021906 tag=0x900 uid=10320
+    cookie=898622 tag=0x2600 uid=10320
+    cookie=2013448 tag=0x1 uid=5026
+    cookie=1930093 tag=0x407 uid=10320
+    cookie=2025504 tag=0x5065fff uid=10320
+    cookie=2024125 tag=0x1 uid=5026
+    cookie=1960413 tag=0x2600 uid=10320
+    cookie=1922810 tag=0x407 uid=10320
+    cookie=2013419 tag=0x1 uid=5026
+    cookie=2018912 tag=0x3c62e918 uid=10124
+    cookie=2025249 tag=0x3c62e918 uid=10124
+    cookie=1862624 tag=0x2600 uid=10320
+  mUidCounterSetMap:
+    uid=10162 set=1
+    uid=1027 set=1
+    uid=1000 set=1
+    uid=5013 set=1
+    uid=10270 set=1
+    uid=10153 set=1
+    uid=10139 set=1
+    uid=10332 set=1
+    uid=10319 set=1
+    uid=10124 set=1
+    uid=10415 set=1
+    uid=10314 set=1
+    uid=99020 set=1
+    uid=10364 set=1
+    uid=1068 set=1
+    uid=99010 set=1
+    uid=1073 set=1
+    uid=10277 set=1
+    uid=1002 set=1
+    uid=10318 set=1
+    uid=1001 set=1
+    uid=10288 set=1
+    uid=10168 set=1
+    uid=10292 set=1
+    uid=10343 set=1
+    uid=10320 set=1
+    uid=10287 set=1
+    uid=10337 set=1
+    uid=10056 set=1
+    uid=10129 set=1
+    uid=2918 set=1
+  mAppUidStatsMap:
+    uid rxBytes rxPackets txBytes txPackets
+    10296 15262548 13086 675149 2737
+    10366 12242082 15560 7199381 14539
+    10298 1636198 2861 1453511 3309
+    10348 13146153097 10766941 329107973 913037
+    5026 197862 288 72719 341
+    -253 589653 8389 19807507 14262
+    1021 6600 12 1579 14
+    5959 358404 463 71863 468
+    10288 946556353 752264 13551739 95315
+    1001 0 0 366 6
+    10220 6655 8 1642 11
+    10168 1575212 2003 387216 1784
+    10251 240528 399 70731 435
+    10134 2118123 1767 158916 1191
+    10357 1054190743 958415 25799334 182063
+    10275 121659 619 912798 973
+    10353 345576 812 322966 902
+    10371 746053 984 140451 985
+    10123 11894 25 5306 32
+    10358 115895 232 80287 214
+    10382 1746253 1681 162133 921
+    10351 1156624 1557 853759 1427
+    10306 38756946 33930 3002473 12662
+    10249 20406 26 5020 31
+    10192 10533854 8436 1144513 4069
+    10242 3448054 4081 513658 3315
+    10414 64398673 70398 2718378 15337
+    10377 1395323 3195 748110 3328
+    10132 45505 86 21488 100
+    10214 76326 168 51361 140
+    10161 58082 104 26892 105
+    10302 174625 225 107232 191
+    10339 22356 39 6716 43
+    10079 313844 905 474165 890
+    10373 793782 866 106944 659
+    10415 2153945 17828 24826266 219514
+    0 61410 85 16660326 194911
+    10364 30537170 93043 34438929 97718
+    10385 135137 291 170696 333
+    2904 52423 84 20995 105
+    10381 147635 375 97269 361
+    10110 1809487 1372 71466 665
+    10320 102624055 136053 42082269 93936
+    10204 4108 10 1331 10
+    10355 14506712 26304 2557518 18865
+    10287 5644052 9691 4395171 8582
+    10292 54794390 59594 12672006 36853
+    10300 18209428 20157 4794356 10641
+    10297 393211 775 241207 938
+    1051 30979284 68918 14870606 92103
+    1002 155511 315 68539 374
+    10175 131173 143 17072 121
+    10135 1429929 1732 139986 1445
+    10367 18541256 15284 1419605 8168
+    10089 114467160 81647 964855 7645
+    1000 1507622718 1471644 12845262 92885
+    10361 598002943 674978 500935158 532812
+    10056 18650 34 7506 39
+    10151 58018 106 12860 97
+    10349 558806218 388420 6872573 57493
+    10092 18027 42 5694 36
+    10386 949110 1075 138229 1009
+    10380 2578043 1822 36575 445
+    10128 53889 72 13556 90
+    10379 8105167 11584 5983124 10779
+    10167 170673 364 51011 373
+    10250 24849 50 13580 93
+    10289 2443681874 1658174 6031663 80061
+    10093 13673 21 3634 25
+    10405 48315 116 15289 114
+    10088 3491328 22031 3671430 23419
+    10376 65440772 52858 3919352 21261
+    10399 26250379 19180 312739 4247
+    10368 108199 242 71056 274
+    10100 7130269 5037 80446 585
+    10372 2827402 4246 674924 4731
+    10375 48078243 36289 1207170 13413
+    5023 420686 872 334851 970
+    10155 29783555 145486 1398270565 1111968
+    10384 5628405 5580 484189 3237
+    10133 618331 1324 279793 1395
+    5009 5054360 9621 9817748 13009
+    10162 43016 46 5892 48
+    10121 44957 81 12995 100
+    10130 6894 11 1878 14
+    10365 18098723 13747 622406 3608
+    10295 101345 193 73753 164
+    10319 409955 569 102215 581
+    10117 98732 163 33432 211
+    10124 812846 1522 300604 1819
+    10139 891364 1447 304196 1477
+    10247 43204 87 14673 107
+    10301 894610795 790171 715281204 651070
+    10187 27014 48 15422 38
+    10290 73702 84 53603 72
+    10109 226010 984 184612 1533
+    10305 52789 61 6676 53
+    10077 18268 34 10864 33
+    10347 3558084087 2923994 111020262 323176
+    10120 469212 721 148383 769
+    1073 278115 1053 185361 1445
+  mStatsMapA:
+    ifaceIndex ifaceName tag_hex uid_int cnt_set rxBytes rxPackets txBytes txPackets
+  mStatsMapB:
+    ifaceIndex ifaceName tag_hex uid_int cnt_set rxBytes rxPackets txBytes txPackets
+    45 wlan0 0x0 10088 0 145 2 141 2
+  mIfaceStatsMap:
+    ifaceIndex ifaceName rxBytes rxPackets txBytes txPackets
+    21 epdg4 0 0 384 4
+    28 epdg12 0 0 384 4
+    25 epdg9 0 0 384 4
+    17 epdg1 0 0 288 3
+    65 rmnet_data2 79929 192 83847 147
+    18 epdg2 0 0 384 4
+    78 rmnet_data0 918346459 778693 381795272 472971
+    24 epdg6 0 0 288 3
+    45 wlan0 23799468491 19624362 2910262039 4269082
+    22 epdg5 0 0 288 3
+    94 rmnet_data1 155183 378 148223 276
+    49 rmnet_data1 4692 10 4712 11
+    19 epdg3 0 0 384 4
+    16 epdg0 0 0 384 4
+    23 epdg8 0 0 288 3
+    26 epdg10 0 0 384 4
+    63 rmnet_data0 571605080 450841 24203472 98023
+    2 dummy0 9804 129 119506 1358
+    20 epdg7 0 0 288 3
+    27 epdg11 0 0 384 4
+    29 epdg13 0 0 384 4
+    79 rmnet_data1 385162 1015 379809 665
+    1 lo 15712604 179289 15712604 179289
+    93 rmnet_data0 338391667 275677 32609460 98223
+
+SkDestroyListener logs:
+
+NetworkStatsFactory logs:
+  Top distinct tag counts in UidTagSets:
+    10320=53
+    10287=7
+    10288=7
+    1000=6
+    10124=6
+    10301=6
+    10298=5
+    10357=5
+    10361=5
+    10292=4
+    10300=4
+    10364=4
+    10365=4
+    10367=4
+    1073=3
+    10089=3
+    10133=3
+    10155=3
+    10192=3
+    5009=2

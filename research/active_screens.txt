@@ -1,0 +1,201 @@
+  * Task{f23d389 #582 type=standard A=10398:com.comarch.clm.mobileapp.petromro U=0 visible=true visibleRequested=true mode=fullscreen translucent=false sz=1}
+    fullscreenRequestAllowMode=NONE
+    isSizeChangesSupported=true
+    mOrientationOverride=Enabled
+    mLastNonFullscreenBounds=Rect(208, 469 - 1040, 1571)
+    isSleeping=false
+    topResumedActivity=ActivityRecord{91923795 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity t582}
+    * Hist  #0: ActivityRecord{91923795 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity t582}
+      packageName=com.comarch.clm.mobileapp.petromro processName=com.comarch.clm.mobileapp.petromro
+      launchedFromUid=10292 launchedFromPackage=com.google.android.googlequicksearchbox launchedFromFeature=null userId=0
+      app=ProcessRecord{443a540 7732:com.comarch.clm.mobileapp.petromro/u0a398}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 xflg=0x4 pkg=com.comarch.clm.mobileapp.petromro cmp=com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity (has extras) }
+      rootOfTask=true task=Task{f23d389 #582 type=standard A=10398:com.comarch.clm.mobileapp.petromro}
+      taskAffinity=10398:com.comarch.clm.mobileapp.petromro
+      mActivityComponent=com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity
+      baseDir=/data/app/~~73gO4EaEJqjDi-xUllscWw==/com.comarch.clm.mobileapp.petromro-snYpzqoo9YYhJnucm6VE4g==/base.apk
+      dataDir=/data/user/0/com.comarch.clm.mobileapp.petromro
+      splitDir=[/data/app/~~73gO4EaEJqjDi-xUllscWw==/com.comarch.clm.mobileapp.petromro-snYpzqoo9YYhJnucm6VE4g==/split_config.arm64_v8a.apk, /data/app/~~73gO4EaEJqjDi-xUllscWw==/com.comarch.clm.mobileapp.petromro-snYpzqoo9YYhJnucm6VE4g==/split_config.xxhdpi.apk]
+      appMetaData=Bundle[{com.facebook.sdk.ApplicationId=1505555863539596, com.huawei.hms.client.service.name:base=base:6.9.0.301, com.huawei.hms.client.service.name:hwid=hwid:6.9.0.301, com.huawei.hms.client.service.name:push=push:6.10.0.300, com.huawei.hms.min_api_level:base:hmscore=1, com.huawei.hms.min_api_level:push:push=1, com.huawei.hms.min_api_level:hwid:hwid=1, com.bumptech.glide.integration.okhttp3.OkHttpGlideModule=GlideModule, io.branch.sdk.BranchKey.test=key_test_kscL9hbU1UEhex1VKQ1ZDinfBEgWcGiv, com.android.vending.derived.apk.id=3, availableLoaded=yes, com.android.stamp.source=https://play.google.com/store, com.huawei.hms.client.service.name:opendevice=opendevice:6.9.0.300, com.android.vending.splits.required=true, com.huawei.hms.min_api_level:hwid:account=13, com.google.android.geo.API_KEY=AIzaSyAmpNSO3Bsjxdnmu6cxIWNaW4lTGLwn74Y, io.branch.sdk.BranchKey=key_live_dCoV7mhL1Qyjfx8VNK48knglBrd9mPpc, com.google.android.gms.version=12451000, com.google.firebase.messaging.default_notification_color=2131099749, com.android.vending.splits=2132148227, com.facebook.sdk.ClientToken=4ea09bfd8ecde48e2401d8c3642cca84, com.android.stamp.type=STAMP_TYPE_DISTRIBUTION_APK, com.facebook.sdk.AutoLogAppEventsEnabled=true, io.branch.sdk.TestMode=false, com.huawei.hms.min_api_level:opendevice:push=1}]
+      stateNotNeeded=false componentSpecified=true mActivityType=standard
+      compat={450dpi} theme=0x7f140146
+      mLastReportedConfigurations:
+        mGlobalConfig={1.15 226mcc5mnc [en_US,ro_RO] ldltr sw444dp w444dp h701dp 450dpi nrml compactNeeded hdr widecg port night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1248, 1972) mAppBounds=Rect(0, 0 - 1248, 1972) mMaxBounds=Rect(0, 0 - 1248, 1972) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0 mStageConfig=undefined mEmbedActivityMode=undefined mPopOver=off mOverlappingWithCutout=false} s.5723 fontWeightAdjustment=0 fv=0 bf=-1 bts=0 cst=1.0 nightDim=0 dt/s themeSeq=0}
+        mOverrideConfig={1.15 226mcc5mnc [en_US,ro_RO] ldltr sw444dp w444dp h701dp 450dpi nrml compactNeeded hdr widecg port night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1248, 1972) mAppBounds=Rect(0, 0 - 1248, 1972) mMaxBounds=Rect(0, 0 - 1248, 1972) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=standard mAlwaysOnTop=undefined mRotation=ROTATION_0 mStageConfig=undefined mEmbedActivityMode=undefined mPopOver=off mOverlappingWithCutout=false} s.2 fontWeightAdjustment=0 fv=0 bf=-1 bts=0 cst=1.0 nightDim=0 dt/s themeSeq=0}
+      mLastReportedActivityWindowInfo=ActivityWindowInfo{isEmbedded=false, taskBounds=Rect(0, 0 - 1248, 1972), taskFragmentBounds=Rect(0, 0 - 1248, 1972)}
+      CurrentConfiguration={1.15 226mcc5mnc [en_US,ro_RO] ldltr sw444dp w444dp h701dp 450dpi nrml compactNeeded hdr widecg port night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1248, 1972) mAppBounds=Rect(0, 0 - 1248, 1972) mMaxBounds=Rect(0, 0 - 1248, 1972) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=standard mAlwaysOnTop=undefined mRotation=ROTATION_0 mStageConfig=undefined mEmbedActivityMode=undefined mPopOver=off mOverlappingWithCutout=false} s.2 fontWeightAdjustment=0 fv=0 bf=-1 bts=0 cst=1.0 nightDim=0 dt/s themeSeq=0}
+      RequestedOverrideConfiguration={0.0 ?mcc0mnc ?localeList ?layoutDir ?swdp ?wdp ?hdp ?density ?lsize ?long ?round ?ldr ?wideColorGamut ?orien ?uimode ?night ?touch ?keyb/?/? ?nav/? winConfig={ mBounds=Rect(0, 0 - 0, 0) mAppBounds=null mMaxBounds=Rect(0, 0 - 0, 0) mDisplayRotation=undefined mWindowingMode=undefined mActivityType=standard mAlwaysOnTop=undefined mRotation=undefined mStageConfig=undefined mEmbedActivityMode=undefined mPopOver=undefined mOverlappingWithCutout=false} ?fontWeightAdjustment fv=0 bf=-1 bts=-1 cst=0.0 nightDim=-1 dt/? themeSeq=0}
+      ResolvedOverrideConfiguration={0.0 ?mcc0mnc ?localeList ?layoutDir ?swdp ?wdp ?hdp ?density ?lsize ?long ?round ?ldr ?wideColorGamut ?orien ?uimode ?night ?touch ?keyb/?/? ?nav/? winConfig={ mBounds=Rect(0, 0 - 0, 0) mAppBounds=null mMaxBounds=Rect(0, 0 - 0, 0) mDisplayRotation=undefined mWindowingMode=undefined mActivityType=undefined mAlwaysOnTop=undefined mRotation=undefined mStageConfig=undefined mEmbedActivityMode=undefined mPopOver=off mOverlappingWithCutout=false} s.2 ?fontWeightAdjustment fv=0 bf=-1 bts=-1 cst=0.0 nightDim=-1 dt/? themeSeq=0}
+--
+      windows=[Window{5f90b9e u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}, Window{1a4e776 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}]
+      windowType=2
+      mOccludesParent=true
+      mStyleFillsParent=true
+      overrideOrientation=SCREEN_ORIENTATION_PORTRAIT
+      requestedOrientation=SCREEN_ORIENTATION_PORTRAIT
+      mVisibleRequested=true mVisible=true mClientVisible=true reportedDrawn=true reportedVisible=true
+      mNumInterestingWindows=2 mNumDrawnWindows=2 allDrawn=true)
+      startingData=null firstWindowDrawn=true
+      nowVisible=true lastVisibleTime=-8s375ms
+      resizeMode=RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION
+--
+    Resumed: ActivityRecord{91923795 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity t582}
+
+Display #1 (activities from top to bottom):
+
+  ResumedActivity: ActivityRecord{91923795 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity t582}
+
+ActivityTaskSupervisor state:
+  topDisplayFocusedRootTask=Task{f23d389 #582 type=standard A=10398:com.comarch.clm.mobileapp.petromro}
+  Display: mDisplayId=0 (organized)
+    init=1248x1972 420dpi mMinSizeOfResizeableTaskDp=220 mMinSizeOfDesktopTaskDp=304 base=1248x1972 450dpi cur=1248x1972 app=1248x1972 rng=1248x1248-1972x1972
+    deferred=false mLayoutNeeded=false
+    initCutout=DisplayCutout{insets=Rect(0, 104 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(589, 0 - 659, 104), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1248 displayHeight=1972 physicalDisplayWidth=1248 physicalDisplayHeight=1972 density={2.625} cutoutSpec={M 0,0 H -13.33333333333333 V 39.61904761904762 H 13.33333333333333 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}
+    baseCutout=DisplayCutout{insets=Rect(0, 104 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(589, 0 - 659, 104), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1248 displayHeight=1972 physicalDisplayWidth=1248 physicalDisplayHeight=1972 density={2.625} cutoutSpec={M 0,0 H -13.33333333333333 V 39.61904761904762 H 13.33333333333333 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}
+
+    initRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=26, center=Point(26, 26)}, RoundedCorner{position=TopRight, radius=26, center=Point(1222, 26)}, RoundedCorner{position=BottomRight, radius=26, center=Point(1222, 1946)}, RoundedCorner{position=BottomLeft, radius=26, center=Point(26, 1946)}]}
+    baseRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=20, center=Point(20, 20)}, RoundedCorner{position=TopRight, radius=20, center=Point(1228, 20)}, RoundedCorner{position=BottomRight, radius=20, center=Point(1228, 1952)}, RoundedCorner{position=BottomLeft, radius=20, center=Point(20, 1952)}]}
+
+  mLastOrientationSource=WindowedMagnification:0:31@123528871
+  deepestLastOrientationSource=ActivityRecord{91923795 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity t582}
+  overrideConfig={1.15 226mcc5mnc [en_US,ro_RO] ldltr sw444dp w444dp h701dp 450dpi nrml compactNeeded hdr widecg port night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1248, 1972) mAppBounds=Rect(0, 0 - 1248, 1972) mMaxBounds=Rect(0, 0 - 1248, 1972) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0 mStageConfig=undefined mEmbedActivityMode=undefined mPopOver=undefined mOverlappingWithCutout=false} s.5376 fontWeightAdjustment=0 fv=0 bf=-1 bts=0 cst=1.0 nightDim=0 dt/s themeSeq=0}
+  mHasSetIgnoreOrientationRequest=false ignoreOrientationRequest=false
+  mSleeping=false mAllSleepTokens=[]
+  mLayoutSeq=28649
+  mImeWindow=Window{c6a29b9 u0 InputMethod}
+  mImeLayeringTarget=Window{5f90b9e u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+  mImeInputTarget=Window{5f90b9e u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+  mImeControlTarget=Window{5f90b9e u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+  ImeContainer
+    mNeedsLayer=false
+    mImeWindowToken=null
+  mImeParent=ActivityRecord{91923795 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity t582}
+  mRemoteInsetsControlTarget=RemoteInsetsControlTarget{ef7a18d displayId=0 requestedVisibleTypes=503 animatingTypes=0}
+  mCurrentFocus=Window{1a4e776 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+  mFocusedApp=ActivityRecord{91923795 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity t582}
+  mFixedRotationLaunchingApp=null
+
+  mHoldScreenWindow=null
+  mObscuringWindow=Window{5f90b9e u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+  mLastWakeLockHoldingWindow=null
+  mLastWakeLockObscuringWindow=Window{c305a40 u0 com.android.settings/com.android.settings.SubSettings}
+
+  mIsHardwareRendererOutputDisabled=false
+  mAreClientRenderingLimitationsEnabled=false
+
+  displayId=0
+  mWallpaperTarget=null
+  mLastWallpaperZoomOut=0.0
+  mFindResults
+--
+      mPreferredTopFocusableRootTask=Task{f23d389 #582 type=standard A=10398:com.comarch.clm.mobileapp.petromro}
+      mLastFocusedRootTask=Task{f23d389 #582 type=standard A=10398:com.comarch.clm.mobileapp.petromro}
+      Application tokens in top down Z order:
+      * Task{f23d389 #582 type=standard A=10398:com.comarch.clm.mobileapp.petromro U=0 visible=true visibleRequested=true mode=fullscreen translucent=false sz=1}
+        bounds=[0,0][1248,1972]
+        * ActivityRecord{91923795 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity t582}
+      * Task{1546ce9 #573 type=standard A=10292:com.google.android.googlequicksearchbox.googleapp U=0 visible=false visibleRequested=false mode=fullscreen translucent=true sz=1}
+        bounds=[0,0][1248,1972]
+        * ActivityRecord{64550989 u0 com.google.android.googlequicksearchbox/.InternalGoogleAppActivityEntrypoint t573}
+      * Task{e00e5a7 #1 type=home U=0 visible=false visibleRequested=false mode=fullscreen translucent=true sz=1}
+        bounds=[0,0][1248,1972]
+        * Task{9ccf7ec #505 type=home I=com.sec.android.app.launcher/.activities.LauncherActivity U=0 rootTaskId=1 visible=false visibleRequested=false mode=fullscreen translucent=true sz=1}
+          bounds=[0,0][1248,1972]
+          * ActivityRecord{97361856 u0 com.sec.android.app.launcher/.activities.LauncherActivity t505}
+      * Task{5e778ef #579 type=standard A=1000:com.android.settings.root U=0 visible=false visibleRequested=false mode=fullscreen translucent=true sz=2}
+        bounds=[0,0][1248,1972]
+--
+    mFocusedWindow=Window{1a4e776 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+    mTopFullscreenOpaqueWindowState=Window{5f90b9e u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+    mSystemUiControllingWindow=Window{1a4e776 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+    mSystemBarColorApps={ActivityRecord{91923795 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity t582}}
+    mNavBarColorWindowCandidate=Window{1a4e776 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+    mNavBarBackgroundWindowCandidate=Window{5f90b9e u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+    mLastStatusBarAppearanceRegions=
+      AppearanceRegion{ bounds=[0,0][1248,1972]}
+    mLastLetterboxDetails=
+    mStatusBarBackgroundWindows=
+      Window{5f90b9e u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+    mImeInsetsConsumed=false
+    mForceShowNavigationBarEnabled=false mAllowLockscreenWhenOn=false
+    mAllowsSystemBarRemoteInsetsController=false
+    mDecorInsetsInfo:
+      ROTATION_0={overrideNonDecorInsets=[0,104][0,42], overrideConfigInsets=[0,110][0,42], overrideNonDecorFrame=[0,104][1248,1930], overrideConfigFrame=[0,110][1248,1930]}
+      ROTATION_90={overrideNonDecorInsets=[104,0][0,42], overrideConfigInsets=[104,84][0,42], overrideNonDecorFrame=[104,0][1972,1206], overrideConfigFrame=[104,84][1972,1206]}
+      ROTATION_180={overrideNonDecorInsets=[0,0][0,146], overrideConfigInsets=[0,110][0,146], overrideNonDecorFrame=[0,0][1248,1826], overrideConfigFrame=[0,110][1248,1826]}
+      ROTATION_270={overrideNonDecorInsets=[0,0][104,42], overrideConfigInsets=[0,84][104,42], overrideNonDecorFrame=[0,0][1868,1206], overrideConfigFrame=[0,84][1868,1206]}
+    mCachedDecorInsets:
+      ROTATION_0={overrideNonDecorInsets=[0,0][0,42], overrideConfigInsets=[0,105][0,42], overrideNonDecorFrame=[0,0][2448,1806], overrideConfigFrame=[0,105][2448,1806]}
+--
+      Window{5f90b9e u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}:
+        InsetsSourceControl: {3 mType=ime mSurfacePosition=Point(0, 110) mInsetsHint=Insets{left=0, top=0, right=0, bottom=934} mLeash=null}
+      Window{1a4e776 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}:
+        InsetsSourceControl: {b3360001 mType=navigationBars initiallyVisible mSurfacePosition=Point(0, 2088) mInsetsHint=Insets{left=0, top=0, right=0, bottom=42} mLeash=Surface(name=Surface(name=d6a2fec TaskbarWindow#69445)/@0x48559bb - animation-leash of insets_animation#87447)/@0x3dd6f4e}
+        InsetsSourceControl: {eee20000 mType=statusBars initiallyVisible mSurfacePosition=Point(0, 0) mInsetsHint=Insets{left=0, top=110, right=0, bottom=0} mLeash=Surface(name=Surface(name=a2b62d4 StatusBar#66437)/@0x43cd8bb - animation-leash of insets_animation#87446)/@0x1955850}
+        InsetsSourceControl: {59350001 mType=navigationBars initiallyVisible mSurfacePosition=Point(0, 1837) mInsetsHint=Insets{left=0, top=0, right=0, bottom=42} mLeash=Surface(name=Surface(name=c142833 NavigationBar0#66429)/@0xa2212ec - animation-leash of insets_animation#87445)/@0x1f00502}
+    InsetsSourceProviders:
+      InsetsSourceProvider
+        mSource=InsetsSource id=59350024 type=systemGestures frame=[1164,0][1248,1972] visible=true flags= sideHint=RIGHT
+        mSourceFrame=Rect(1164, 0 - 1248, 1972)
+        mIsLeashInitialized=false mHasPendingPosition=false
+        mWin=Window{c142833 u0 NavigationBar0}
+      InsetsSourceProvider
+--
+        mControlTarget=Window{1a4e776 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+      ImeInsetsSourceProvider
+        mSource=InsetsSource id=3 type=ime frame=[0,0][0,0] visibleFrame=[0,1837][1248,1972] visible=false flags=INVALID sideHint=NONE
+        mSourceFrame=Rect(0, 1837 - 1248, 1972)
+        mControl=InsetsSourceControl mId=3 mType=ime mLeash=Surface(name=Surface(name=c6a29b9 InputMethod#76570)/@0x1927d5f - animation-leash of insets_animation#87443)/@0x96824b8 mInitiallyVisible=false mSurfacePosition=Point(0, 110) mInsetsHint=Insets{left=0, top=0, right=0, bottom=934} mSkipAnimationOnce=false mImeStatsToken=null mControlledByPolicy=false
+        mInsetsHint=Insets{left=0, top=0, right=0, bottom=934} stale
+        mIsLeashInitialized=true mHasPendingPosition=false
+        mWin=Window{c6a29b9 u0 InputMethod}
+        mAdapter=ControlAdapter mCapturedLeash=Surface(name=Surface(name=c6a29b9 InputMethod#76570)/@0x1927d5f - animation-leash of insets_animation#87443)/@0x96824b8
+        mControlTarget=Window{5f90b9e u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+        mImeShowing=false mLastDrawn=false
+      InsetsSourceProvider
+        mSource=InsetsSource id=eee20006 type=tappableElement frame=[0,0][1248,110] visible=true flags= sideHint=TOP
+        mSourceFrame=Rect(0, 0 - 1248, 110)
+        mIsLeashInitialized=false mHasPendingPosition=false
+        mWin=Window{a2b62d4 u0 StatusBar}
+      InsetsSourceProvider
+        mSource=InsetsSource id=eee20005 type=mandatorySystemGestures frame=[0,0][1248,138] visible=true flags= sideHint=TOP
+        mSourceFrame=Rect(0, 0 - 1248, 138)
+        mIsLeashInitialized=false mHasPendingPosition=false
+--
+        mControlTarget=Window{1a4e776 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+      InsetsSourceProvider
+        mSource=InsetsSource id=b3360024 type=systemGestures frame=[0,0][0,0] visible=false flags=INVALID sideHint=NONE
+        mSourceFrame=Rect(1764, 0 - 1848, 2448)
+        mIsLeashInitialized=false mHasPendingPosition=false
+        mWin=Window{d6a2fec u0 TaskbarWindow}
+      InsetsSourceProvider
+        mSource=InsetsSource id=b3360006 type=tappableElement frame=[0,0][0,0] visible=false flags=INVALID sideHint=NONE
+        mSourceFrame=Rect(0, 2406 - 1848, 2448)
+        mOverrideFrames={2011=Rect(0, 2406 - 1848, 2448)}
+        mIsLeashInitialized=false mHasPendingPosition=false
+--
+        mControlTarget=Window{1a4e776 u0 com.comarch.clm.mobileapp.petromro/com.comarch.clm.mobile.enterprise.petrom.ro.PetromRoActivity}
+  InsetsPolicy
+    status: WINDOW_STATE_SHOWING
+    nav: WINDOW_STATE_SHOWING
+
+  DisplayWindowSettingsProvider
+    SettingsEntry{mWindowingMode=0, mUserRotationMode=1, mUserRotation=0, mTableTopRotationMode=null, mForcedWidth=0, mForcedHeight=0, mForcedDensity=450, mForcedDensityRatio=0.0, mForcedScalingMode=null, mRemoveContentMode=0, mShouldShowWithInsecureKeyguard=null, mShouldShowSystemDecors=false, mIsHomeSupported=null, mShouldShowIme=null, mFixedToUserRotation=null, mIgnoreOrientationRequest=null, mIgnoreDisplayCutout=null, mDontMoveToTop=null, mForceAppsUniversalResizable=null, mCanStealTopFocus=null}
+
+  Display: mDisplayId=1 (organized)
+    init=2448x1848 420dpi mMinSizeOfResizeableTaskDp=220 mMinSizeOfDesktopTaskDp=304 base=2448x1848 450dpi cur=2448x1848 app=2448x1848 rng=1848x1848-2448x2448
+    deferred=false mLayoutNeeded=false
+--
+        (fullscreen) Task{f23d389 #582 type=standard A=10398:com.comarch.clm.mobileapp.petromro}
+
+  VisibleActivityProcess:[ ProcessRecord{443a540 7732:com.comarch.clm.mobileapp.petromro/u0a398}]
+  NumNonAppVisibleWindowUidMap:[ 10056:2]
+
+  PACKAGE SETTINGS MANAGER
+    AdaptiveAppByDefaultPolicy
+      PolicyEnabled=true
+    OrientationPolicy
+      mDefaultEnabled=true
+    SplitActivityController
+    DisplayCutoutController
+      mCutoutInset=Rect(0, 104 - 0, 0)

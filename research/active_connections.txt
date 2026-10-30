@@ -1,0 +1,25 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program Name
+tcp        0      0 10.165.71.41:sip        10.13.71.6:32793        ESTABLISHED -
+tcp       25      0 192.168.0.208:37090     ec2-52-11-118-109:https CLOSE_WAIT  -
+tcp        0      0 192.168.0.208:56282     edge-dgw-mini-shv:https ESTABLISHED -
+tcp       25      0 192.168.0.208:38854     199.232.210.248:https   CLOSE_WAIT  -
+tcp        0      0 192.168.0.208:50008     172.217.119.4:https     ESTABLISHED -
+tcp      130      0 192.168.0.208:44078     pm-in-f94.1e100.n:https CLOSE_WAIT  -
+tcp       25      0 192.168.0.208:38850     199.232.210.248:https   CLOSE_WAIT  -
+tcp        0      0 10.165.71.41:40367      10.13.71.6:sip          ESTABLISHED -
+tcp        0      0 192.168.0.208:55614     172.217.117.4:https     ESTABLISHED -
+tcp6       1     25 ::ffff:192.168.0.:39972 ::ffff:172.217.11:https LAST_ACK    -
+tcp6       0      0 ::ffff:192.168.0.:34112 ::ffff:192.168.0.1:8009 ESTABLISHED -
+tcp6      25      0 ::ffff:192.168.0.:38150 ec2-18-205-10-181:https CLOSE_WAIT  -
+tcp6       1      0 ::ffff:10.53.49.1:38464 wk-in-f109.1e100.:imaps CLOSE_WAIT  -
+tcp6       1      0 ::ffff:10.60.220.:40818 wb-in-f109.1e100.:imaps CLOSE_WAIT  -
+tcp6       1      0 ::ffff:10.53.49.1:35618 wo-in-f109.1e100.:imaps CLOSE_WAIT  -
+tcp6       0      0 ::ffff:192.168.0.:48146 lcfrai-in-f188.1e1:5228 ESTABLISHED -
+tcp6       1      0 ::ffff:10.60.220.:35606 wo-in-f109.1e100.:imaps CLOSE_WAIT  -
+tcp6       0      0 ::ffff:192.168.0.:41202 wg-in-f109.1e100.:imaps ESTABLISHED -
+tcp6      25      0 ::ffff:192.168.0.:38576 ec2-18-205-10-181:https CLOSE_WAIT  -
+tcp6       0      0 ::ffff:192.168.0.:35012 wk-in-f108.1e100.:imaps ESTABLISHED -
+tcp6       0      0 ::ffff:192.168.0.:44830 wk-in-f108.1e100.:imaps ESTABLISHED -
+udp     4608      0 192.168.0.208:bootpc    192.168.0.1:bootps      ESTABLISHED -
+udp        0   2048 192.168.0.208:50783     dns.google:https        ESTABLISHED -

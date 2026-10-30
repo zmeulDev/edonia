@@ -1,0 +1,1933 @@
+        c9eb7d8 com.google.android.gms/.permissions.ManagePermissionUsageActivity
+      com.google.android.gms.permissions.PERMISSIONS_WEBVIEW_DEBUG_ACTIVITY:
+        cec29ee com.google.android.gms/.permissions.debug.PermissionsWebViewDebugActivity
+      com.google.android.gms.permissions.SHOW_CALLER_INFO_DEBUG_ACTIVITY:
+        d30a9f0 com.google.android.gms/.permissions.debug.ShowCallerInfoActivity
+      com.google.android.gms.permissions.ACTION_MANAGE_SERVICE:
+        c9eb7d8 com.google.android.gms/.permissions.ManagePermissionUsageActivity
+      com.google.android.gms.permissions.PERMISSIONS_DEBUG_ACTIVITY:
+        23d6e16 com.google.android.gms/.permissions.debug.PermissionsDebugActivity
+      com.google.android.gms.permissions.SECURITY_DEBUG_ACTIVITY:
+        89bc708 com.google.android.gms/.permissions.debug.SecurityDebugActivity
+        b5a762d com.google.android.healthconnect.controller/com.android.healthconnect.controller.permissions.request.PermissionsActivity
+        edc274a com.google.android.gms/.permissions.ViewConsumerServicesActivity
+      com.google.android.gms.permissions.CERTIFICATE_TRANSPARENCY_DEBUG_ACTIVITY:
+        48b88c6 com.google.android.gms/.permissions.debug.CertificateTransparencyActivity
+        e610d75 com.google.android.healthconnect.controller/com.android.healthconnect.controller.permissions.shared.SettingsActivity
+      com.google.android.gms.permissions.WEB_MESSAGE_LISTENER_DEBUG_ACTIVITY:
+        a74f6fa com.google.android.gms/.permissions.debug.WebMessageListenerDebugActivity
+      com.google.android.gms.permissions.CERTIFICATE_TRANSPARENCY_DEBUG_ALIAS_ACTIVITY:
+        aaa4bb4 com.google.android.gms/.permissions.debug.CertificateTransparencyAliasActivity
+      voicenote.intent.action.permissions:
+        8b9f53e com.google.android.gms/.permissions.ViewPermissionUsageActivity
+      com.google.android.gms.permissions.ANDROID_ID_DEBUG_ACTIVITY:
+        e9a55a2 com.google.android.gms/.permissions.debug.AndroidIdActivity
+      com.google.android.gms.permissions.WEBVIEW_BUILDER_DEBUG_ACTIVITY:
+        68e751c com.google.android.gms/.permissions.debug.WebViewBuilderDebugActivity
+      com.google.android.gms.permissions.GSF_INFO_DEBUG_ACTIVITY:
+        9337984 com.google.android.gms/.permissions.debug.GSFInfoDebugActivity
+        bbcd64c com.spotify.music/com.spotify.connect.mediarouteactivity.permissions.OutputSwitcherPermissionNudgeActivity
+        2e4f8ec com.google.android.gms/.permissions.ViewPermissionUsageForPeriodActivity
+        970192b com.android.chrome/org.chromium.chrome.browser.notifications.permissions.NotificationPermissionChangeReceiver
+        77b33b6 com.vivaldi.browser/org.chromium.chrome.browser.notifications.permissions.NotificationPermissionChangeReceiver
+        970192b com.android.chrome/org.chromium.chrome.browser.notifications.permissions.NotificationPermissionChangeReceiver
+        77b33b6 com.vivaldi.browser/org.chromium.chrome.browser.notifications.permissions.NotificationPermissionChangeReceiver
+  Permission [com.samsung.android.samsungpass.permissions.MIGRATION] (9cd7952):
+    perm=PermissionInfo{edfd423 com.samsung.android.samsungpass.permissions.MIGRATION}
+  Permission [com.samsung.android.fido.uaf.client.permissions.FIDO_UAF_CLIENT_PRIVILEGED] (1e91694):
+    perm=PermissionInfo{f97e53d com.samsung.android.fido.uaf.client.permissions.FIDO_UAF_CLIENT_PRIVILEGED}
+  Permission [com.samsung.android.authfw.permissions.preferences] (451a098):
+    perm=PermissionInfo{33fe0f1 com.samsung.android.authfw.permissions.preferences}
+  Permission [com.samsung.android.authfw.permissions.PASS_STORAGE] (5e381d4):
+    perm=PermissionInfo{1650f7d com.samsung.android.authfw.permissions.PASS_STORAGE}
+  Permission [com.samsung.android.authfw.permissions.MONITOR_BIOMETRIC] (6120ff4):
+    perm=PermissionInfo{145531d com.samsung.android.authfw.permissions.MONITOR_BIOMETRIC}
+  Permission [com.sec.android.fido.uaf.asm.permissions.FIDO_UAF_ASM] (6923312):
+    perm=PermissionInfo{9bb6ae3 com.sec.android.fido.uaf.asm.permissions.FIDO_UAF_ASM}
+  Permission [com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE] (a0b21f4):
+    perm=PermissionInfo{1cdfd1d com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE}
+  Permission [org.fidoalliance.uaf.permissions.FIDO_CLIENT] (8cf2144):
+    perm=PermissionInfo{aec122d org.fidoalliance.uaf.permissions.FIDO_CLIENT}
+  Permission [com.google.android.apps.gsa.nga.permissions.EDIT_PREFERENCES] (ae88968):
+    perm=PermissionInfo{d506181 com.google.android.apps.gsa.nga.permissions.EDIT_PREFERENCES}
+  Permission [com.samsung.android.authfw.permissions.license.ACTIVATE_LICENSE] (a7b799a):
+    perm=PermissionInfo{cbbe2cb com.samsung.android.authfw.permissions.license.ACTIVATE_LICENSE}
+  Permission [com.samsung.android.pass.permissions.USE_PASS_SERVICE] (df78380):
+    perm=PermissionInfo{1742db9 com.samsung.android.pass.permissions.USE_PASS_SERVICE}
+  Package [com.samsung.SMT.lang_de_de_f00] (1956a16):
+  Package [com.google.android.networkstack.tethering] (e62a37a):
+  Package [com.samsung.android.provider.filterprovider] (a6a6cf5):
+    declared permissions:
+  Package [com.samsung.android.mydevice] (8a45a8f):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.cts.priv.ctsshim] (d8c32fa):
+      runtime permissions:
+  Package [com.samsung.android.smartswitchassistant] (52fc3f6):
+    declared permissions:
+  Package [com.sec.vsim.ericssonnsds.webapp] (3a30c87):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.setupwizardlegalprovider] (46a2752):
+    declared permissions:
+  Package [com.google.android.youtube] (dfc2cd9):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.location.nsflp2] (f717d65):
+    declared permissions:
+  Package [com.samsung.SMT.lang_it_it_f00] (5207a9b):
+  Package [com.samsung.SMT.lang_it_it_g01] (eb3ab76):
+  Package [com.samsung.SMT.lang_it_it_l01] (6950a4d):
+  Package [com.android.uwb.resources] (98dfc50):
+  Package [com.samsung.android.themestore] (c24c6f):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.chromecustomizations] (2b8b65a):
+    declared permissions:
+  Package [com.samsung.android.app.aodservice] (82af72b):
+    declared permissions:
+  Package [com.android.internal.display.cutout.emulation.corner] (1191014):
+  Package [com.google.android.ext.services] (f77b6b2):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.SMT.lang_pt_br_f00] (5bd0bb9):
+  Package [com.samsung.android.knox.kfbp] (6dfdb07):
+    declared permissions:
+  Package [com.samsung.android.knox.knnr] (ae77d46):
+    declared permissions:
+  Package [com.samsung.android.knox.mpos] (52e8ddf):
+  Package [com.android.internal.display.cutout.emulation.double] (c8fab57):
+  Package [com.sec.location.nfwlocationprivacy] (2e9b32d):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.microsoft.appmanager] (2cde2b0):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.providers.telephony] (4a8fc48):
+    declared permissions:
+  Package [com.sec.android.app.ve.vebgm] (44e8759):
+    declared permissions:
+  Package [com.sec.android.app.parser] (e017264):
+    declared permissions:
+  Package [com.android.dynsystem] (9488fa9):
+  Package [com.samsung.unifiedtp] (3fcaccf):
+  Package [com.samsung.android.networkstack] (d7f1e3):
+  Package [com.google.android.googlequicksearchbox] (960f130):
+    declared permissions:
+      com.google.android.apps.gsa.nga.permissions.EDIT_PREFERENCES: prot=signature
+    install permissions:
+      com.google.android.apps.gsa.nga.permissions.EDIT_PREFERENCES: granted=true
+      runtime permissions:
+  Package [com.sec.android.app.bluetoothagent] (a82ef1e):
+    declared permissions:
+  Package [com.samsung.android.calendar] (b50b56a):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.cellbroadcastservice] (49d23a5):
+    declared permissions:
+  Package [com.android.providers.calendar] (47594f4):
+    declared permissions:
+  Package [com.osp.app.signin] (30e87c2):
+    declared permissions:
+    install permissions:
+      com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE: granted=true
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+      runtime permissions:
+  Package [com.samsung.android.emergency] (cc95885):
+    declared permissions:
+  Package [com.samsung.android.aremoji] (551802f):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.automation] (3659d7):
+    declared permissions:
+  Package [com.google.android.ext.shared] (b25a28):
+  Package [com.android.virtualmachine.res] (4db4627):
+    declared permissions:
+  Package [com.plexapp.android] (e9c6572):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.globalpostprocmgr] (560d92e):
+    declared permissions:
+  Package [com.android.wallpapercropper] (828d31f):
+    install permissions:
+  Package [com.google.android.federatedcompute] (d0f30ca):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.wallpaper.res] (d37feb1):
+  Package [com.samsung.android.smartmirroring] (b123704):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.skms.android.agent] (4c07556):
+    declared permissions:
+  Package [com.samsung.android.mcf.autohotspot] (5fed2e9):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.mapsagent] (2d7629c):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.knox.er] (769434):
+    declared permissions:
+  Package [com.android.virtualdevicemanager] (6d4f621):
+    declared permissions:
+    install permissions:
+  Package [com.sec.android.app.safetyassurance] (a8e27d2):
+    declared permissions:
+  Package [com.samsung.android.incallui] (a7ee006):
+    declared permissions:
+  Package [com.samsung.android.knox.containercore] (656d65c):
+    declared permissions:
+  Package [com.samsung.android.service.tagservice] (86aacc):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.kidsinstaller] (144ba1b):
+    declared permissions:
+    install permissions:
+  Package [com.sec.factory.camera] (fdb670b):
+    declared permissions:
+  Package [com.sec.usbsettings] (741e371):
+    declared permissions:
+  Package [com.android.providers.telephony.auto_generated_characteristics_rro] (df2c682):
+  Package [com.samsung.android.easysetup] (a1db5d0):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.tplink.iot] (61a73ef):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.externalstorage] (8ea3da):
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.aware.service] (22af41d):
+    declared permissions:
+  Package [com.sec.android.easyonehand] (3e39194):
+    install permissions:
+  Package [com.android.htmlviewer] (b16c583):
+  Package [com.samsung.android.vtcamerasettings] (d83c94):
+    declared permissions:
+  Package [com.whatsapp] (2077f2c):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.companiondevicemanager] (3161fb):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.systemui.lockstar] (571c256):
+    declared permissions:
+    install permissions:
+  Package [com.android.mms.service] (818ae1):
+  Package [com.samsung.android.rubin.app] (7dc8788):
+    declared permissions:
+  Package [com.lufthansa.android.lufthansa] (74ec62e):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.lidl.eci.lidlplus] (fb60e65):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.wifi.saeupgradeoffload.resources] (c9f8148):
+  Package [com.android.providers.downloads] (bfd90f):
+    declared permissions:
+  Package [com.mobillium.airalo] (250a51d):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.health.connect.backuprestore] (2733160):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.apps.messaging] (69890bf):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.easyMover.Agent] (871c2ea):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.networkstack.tethering.overlay] (6d8cf51):
+  Package [com.samsung.android.offline.languagemodel] (2c1d8b7):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.SMT.lang_vi_vn_f00] (693c542):
+  Package [vendor.qti.hardware.cacert.server] (e18f692):
+  Package [com.wsomacp] (a9b67bc):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [proton.android.authenticator] (dde8fcb):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.iaft] (29550d0):
+  Package [com.samsung.faceservice] (284e2b8):
+    declared permissions:
+  Package [com.samsung.gpuwatchapp] (d9cbc73):
+    declared permissions:
+  Package [ch.protonmail.android] (4f5f4f9):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.voicenote] (66637ec):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.securitybrief] (c9701bb):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.simagent] (b5cb516):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.monotype.android.font.foundation] (4a586d):
+  Package [com.sameday.client.mobile] (1bdb8f0):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.widgetapp.easymodecontactswidget] (328298f):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.email.provider] (bc18dfa):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.knox.kpecore] (e3321a1):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.app.parentalcare] (97a2ab4):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.knox.pushmanager] (1197730):
+    declared permissions:
+  Package [com.sec.android.app.factorykeystring] (c1828fb):
+    declared permissions:
+  Package [com.google.android.verifier] (d2c947f):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.signature] (69969aa):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.knox.app.networkfilter] (dcf23ff):
+  Package [com.sec.android.app.samsungapps] (7da9477):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.trichromelibrary_772713733] (7b18402):
+  Package [com.samsung.android.inputshare] (971f549):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.configupdater] (95d307c):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.wlantest] (bcbf801):
+    declared permissions:
+  Package [com.samsung.android.accessibility.talkback] (2ada863):
+    declared permissions:
+  Package [com.google.android.providers.media.module] (e691314):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.pluxeegroup.consumers.global] (2155503):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.contactspicker] (cfe76fe):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.overlay.modules.permissioncontroller] (56d175):
+  Package [com.github.android] (782617b):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.billing] (ed867d6):
+    declared permissions:
+    install permissions:
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+      runtime permissions:
+  Package [com.android.avatarpicker] (5c4ba2d):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.visual.cloudcore] (bcdd5b0):
+    declared permissions:
+    install permissions:
+  Package [vendor.qti.data.txpwradmin] (cd10c60):
+  Package [com.sec.epdgtestapp] (432c4ba):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.knox.zt.framework] (cff133d):
+    declared permissions:
+  Package [com.samsung.android.wifi.p2paware.resources] (c11c747):
+  Package [com.android.eyedropper] (1f5889d):
+    declared permissions:
+    install permissions:
+  Package [com.sec.android.app.uwbtest] (94f93f7):
+    declared permissions:
+  Package [ro.mercador] (d554c5e):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.daemonapp] (24e2e55):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.SMT.lang_en_gb_f00] (1d255f8):
+  Package [com.google.ar.core] (1f51037):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.wifi.intelligence] (56690e2):
+  Package [com.sec.sve] (5768e7):
+    declared permissions:
+  Package [com.android.providers.downloads.ui] (66c2d9c):
+  Package [com.android.vending] (375b93c):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.pacprocessor] (f942f4b):
+    install permissions:
+  Package [com.android.simappdialog] (523abe6):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.knox.attestation] (8df7893):
+    declared permissions:
+  Package [com.samsung.android.hwresourceshare] (d293cc3):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.secsoundpicker] (90251be):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.adservices.api] (3757b35):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.SMT.lang_ro_ro_f00] (8703058):
+  Package [com.samsung.internal.systemui.navbar.sec_gestural] (ccef617):
+  Package [com.betafish.adblocksbrowser] (d56dbed):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.SMT.lang_es_es_f00] (1a8b270):
+  Package [com.android.internal.display.cutout.emulation.hole] (704910f):
+  Package [com.android.internal.display.cutout.emulation.tall] (d7c9ba5):
+  Package [com.samsung.android.intellivoiceservice] (a032f2b):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.soundalive] (9e71546):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.kmxservice] (e339a5d):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.provider.badge] (64597a0):
+    declared permissions:
+    install permissions:
+  Package [com.android.certinstaller] (ab1dbff):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.motionphoto.app] (e468e00):
+    declared permissions:
+  Package [com.android.carrierconfig] (4abab8):
+    install permissions:
+  Package [com.google.android.marvin.talkback] (8d14bf7):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.kdg.beam_android] (e634182):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.apps.accessibility.voiceaccess] (907b519):
+    declared permissions:
+  Package [com.samsung.android.app.esimkeystring] (74ea639):
+    declared permissions:
+  Package [com.android.internal.systemui.navbar.threebutton] (9337eda):
+  Package [com.android.wifi.dialog] (e3e41e8):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.SMT] (69166da):
+    declared permissions:
+  Package [com.samsung.cmh] (dfc011b):
+    declared permissions:
+  Package [com.samsung.drm] (8526832):
+    declared permissions:
+  Package [android] (ea5f732):
+    declared permissions:
+  Package [com.android.hotwordenrollment.xgoogle] (9cd45df):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.wcmurlsnetworkstack] (259528a):
+  Package [com.samsung.petservice] (c6adf2a):
+    declared permissions:
+  Package [com.samsung.android.sm.devicesecurity] (5615521):
+    declared permissions:
+  Package [com.samsung.android.vision.model] (4c0bdad):
+    declared permissions:
+    install permissions:
+  Package [com.google.android.overlay.modules.cellbroadcastreceiver] (c0e4f30):
+  Package [com.samsung.internal.systemui.navbar.sec_gestural_no_hint] (dbd712e):
+  Package [com.samsung.android.wifi.resources.lls] (7c12e5c):
+  Package [com.samsung.SMT.lang_es_mx_f00] (633723a):
+  Package [com.google.android.overlay.gmsconfig.searchselector] (79882e1):
+  Package [com.samsung.android.aircommandmanager] (a46a9fc):
+    declared permissions:
+  Package [com.android.server.telecomui] (fb96c1d):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.appsearch.aiseal.config] (aabe460):
+  Package [com.google.android.sdksandbox] (1231fbf):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.net.wifi.wifiguider] (6cddea):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.wifi.softapwpathree.resources] (236e651):
+  Package [com.samsung.android.service.stplatform] (42f47b7):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.smartface] (c8c2982):
+  Package [com.android.egg] (312590):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.mtp] (2400e6e):
+    declared permissions:
+  Package [com.android.nfc] (7dd225d):
+    declared permissions:
+  Package [com.android.ons] (aeb66c7):
+  Package [com.android.stk] (2c146eb):
+    declared permissions:
+  Package [com.samsung.android.camerasdkservice] (fe81d18):
+  Package [com.android.backupconfirm] (6e43df2):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.klmsagent] (30babf9):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.instagram.android] (7281ef3):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+        com.instagram.urlhandlers.permissionshowitworks.PermissionsHowItWorksUrlHandlerActivity
+        com.instagram.urlhandlers.permissionsinvitesettings.PermissionsInviteSettingsUrlHandlerActivity
+        com.instagram.urlhandlers.permissionsmanagement.PermissionsManagementUrlHandlerActivity
+        com.instagram.urlhandlers.permissionsinvitation.PermissionsInvitationUrlHandlerActivity
+        com.instagram.urlhandlers.permissionsremovedaccounts.PermissionsRemovedAccountsUrlHandlerActivity
+  Package [com.samsung.android.app.find] (a69994a):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.SMT.lang_en_us_g02] (961e131):
+  Package [com.samsung.SMT.lang_en_us_l03] (f855b84):
+  Package [com.samsung.SMT.lang_en_us_l04] (ef6cc33):
+  Package [com.samsung.SMT.lang_en_us_l05] (e5efbee):
+  Package [org.localsend.localsend_app] (4650f25):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.SecSetupWizard] (c38547e):
+    declared permissions:
+  Package [com.samsung.android.ptts.enus] (3469ac6):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.mfcontents] (446fddd):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.app.telephonyui] (8a55a3a):
+    declared permissions:
+  Package [com.samsung.android.wifi.softap.resources] (f83c9e):
+  Package [com.samsung.android.samsungpositioning] (11f24c):
+    declared permissions:
+  Package [com.samsung.android.uwb.resources] (33b789b):
+  Package [com.google.android.as] (a85aed):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.gm] (bcf0377):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.virtualdevicemanager.auto_generated_characteristics_rro] (807ff02):
+  Package [com.samsung.android.wifi.largetcpbuffer.resources] (1cee250):
+  Package [com.samsung.android.bixby.agent] (c7b094e):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.verifier.overlay] (fed0405):
+  Package [com.samsung.SMT.lang_es_us_f00] (5a7be8b):
+  Package [com.android.compos.payload] (6af426):
+  Package [com.google.android.apps.tachyon] (47caebd):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.overlay.gmsconfig.common] (5c77f80):
+  Package [com.sec.android.app.hwmoduletest] (77f0aef):
+    declared permissions:
+  Package [com.samsung.android.nfc.resources.default] (de513ac):
+  Package [com.android.settings.intelligence] (f7ea00a):
+    declared permissions:
+    install permissions:
+  Package [com.sec.bcservice] (d2f16a6):
+    declared permissions:
+  Package [com.sec.modem.settings] (a7ac83):
+    declared permissions:
+  Package [com.comarch.clm.mobileapp.petromro] (a1bc12d):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.monotype.android.font.samsungone] (179c8b0):
+  Package [com.samsung.android.privacydashboard] (f704c4f):
+    declared permissions:
+    install permissions:
+  Package [com.google.android.permissioncontroller] (c071fba):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.servicemodeapp] (4d05ccd):
+    declared permissions:
+  Package [com.google.android.setupwizard] (e437647):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [ro.emag.android] (83dec12):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.gallery3d] (8f34899):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.providers.settings] (9cdf2c4):
+    declared permissions:
+  Package [com.sec.android.app.volumemonitorprovider] (746eb6a):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.accessibility] (7013a8a):
+    declared permissions:
+  Package [com.sec.imsservice] (d868a2c):
+    declared permissions:
+  Package [com.android.sharedstoragebackup] (c555a0d):
+    install permissions:
+      runtime permissions:
+  Package [com.facebook.services] (5d75f10):
+    declared permissions:
+    install permissions:
+  Package [com.google.android.euicc] (cea1e2f):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.mosey] (3a9031a):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.mobileservice] (f7c7141):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.printspooler] (9e8f6d4):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.drmboost] (3825bc3):
+  Package [com.android.hotwordenrollment.okgoogle] (bc93cbe):
+    declared permissions:
+    install permissions:
+  Package [com.android.virtualization.terminal] (dada235):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.qualcomm.qti.services.systemhelper] (912f8c9):
+    declared permissions:
+  Package [com.samsung.android.mdx.kit] (ed74015):
+    declared permissions:
+  Package [com.samsung.storyservice] (bc6127a):
+    declared permissions:
+  Package [com.iuliuspalas.cardfidelitate] (d21bbb3):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.qualcomm.qti.gpudrivers.canoe.api36] (c1c516e):
+  Package [com.android.dreams.basic] (58c82a5):
+  Package [com.samsung.SMT.lang_fr_fr_f00] (ddeb288):
+  Package [com.google.android.aicore] (cfc4207):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.overlay.modules.ext.services] (346fad2):
+  Package [com.google.android.as.oss] (bbf4aa0):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.rampart] (316aff):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.RilPhoneNumberService] (44045ad):
+  Package [com.android.se] (302bfa0):
+    declared permissions:
+  Package [com.android.inputdevices] (75269e8):
+  Package [ro.ing.mobile.banking.android.activity] (6a46b43):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.wifi.resources] (fff0f93):
+  Package [com.samsung.android.kgclient] (d1520a3):
+    declared permissions:
+  Package [com.samsung.knox.securefolder] (645a4fc):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.oda.agent] (7665c2):
+    declared permissions:
+  Package [com.samsung.android.app.sketchbook] (925c701):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.bips] (85b9794):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.audio.hearing.visualization.accessibility.scribe] (65b0383):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.stk2] (ff88a07):
+    declared permissions:
+  Package [com.samsung.android.game.gametools] (ba452c):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.app.contacts] (bff5ffb):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.gamedriver.sm8850] (a9e5856):
+  Package [com.samsung.android.service.peoplestripe] (3d5c4ad):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.da.daagent] (9491c0e):
+    declared permissions:
+  Package [com.google.android.captiveportallogin] (6b81c2e):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.brightnessbackupservice] (9109ee6):
+  Package [com.samsung.android.app.reminder] (2643deb):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.overlay.gmsconfig.geotz] (11b8306):
+  Package [com.google.android.appsearch.apk] (ac26ff4):
+    declared permissions:
+    install permissions:
+  Package [com.google.ambient.streaming] (6d87f63):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.app.homestar] (ef9ecde):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.smartcallprovider] (11a8d5):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.app.smartcapture] (b7df278):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.apps.bard] (9b8b6b7):
+    declared permissions:
+    install permissions:
+  Package [com.google.android.apps.docs] (426bb42):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.apps.maps] (7250589):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [pl.cineworld.cinemacity] (826adbc):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.webapp.service] (6bf0dcb):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.modulemetadata] (658fc66):
+  Package [com.samsung.SMT.lang_ar_ae_m00] (b1783fd):
+  Package [com.samsung.android.app.taskedge] (61b45c0):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.dynamiclock] (e45789f):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.SMT.lang_id_id_f00] (85a344a):
+  Package [com.samsung.advp.imssettings] (5537831):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.location] (7391e84):
+    install permissions:
+  Package [vendor.qti.data.ntnsatapp] (c85e2d2):
+  Package [com.sec.android.app.clockpackage] (3dffc69):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.RilServiceModeApp] (a42e95d):
+    declared permissions:
+  Package [com.google.android.webview] (a1043fa):
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.mdecservice] (ac3687d):
+    declared permissions:
+  Package [com.google.android.overlay.modules.documentsui] (4e31987):
+  Package [com.samsung.android.app.telephonyui.esimclient] (7cac4dd):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.wifi.ai] (7230f79):
+  Package [com.google.android.networkstack] (c54d412):
+    declared permissions:
+  Package [com.google.android.rkpdapp] (437e24c):
+    declared permissions:
+    install permissions:
+  Package [com.google.android.contactkeys] (bd2f79b):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.accessory.budsunitemgr] (7b20c76):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.server.telecom] (826504):
+    declared permissions:
+  Package [com.samsung.videoscan] (ecebf13):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.euicc] (45f509c):
+    declared permissions:
+  Package [com.sec.imslogger] (57eeb1a):
+    declared permissions:
+  Package [com.android.keychain] (93aa4be):
+  Package [com.qti.snapdragon.qdcm_ff] (7646aed):
+  Package [com.android.phone.auto_generated_characteristics_rro] (3147f26):
+  Package [com.samsung.android.privateaccesstokens] (dcd1914):
+    declared permissions:
+    install permissions:
+  Package [com.android.chrome] (6359303):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.ipsgeofence] (1690f8):
+    declared permissions:
+  Package [com.google.android.overlay.modules.healthfitness.forframework] (c51f75):
+  Package [com.samsung.android.themecenter] (a197941):
+    declared permissions:
+  Package [com.samsung.android.liveeffectservice] (d53df1):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.server.wifi.mobilewips] (5f2ef44):
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.packageinstaller] (7b142f3):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.gms] (529f1ae):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.gsf] (d1dcfe5):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.tts] (49550c8):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [android.autoinstalls.config.samsung] (d912547):
+  Package [com.android.wifi.resources] (9aea712):
+  Package [com.samsung.android.container] (5fb7f99):
+    install permissions:
+  Package [com.google.android.apps.walletnfcrel] (13ebb0c):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.calllogbackup] (286c737):
+  Package [com.google.android.partnersetup] (3b11d22):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.nmt.apps.t2t.languagepack.enit] (87f5fa4):
+    declared permissions:
+  Package [com.samsung.android.nmt.apps.t2t.languagepack.enro] (66336d3):
+    declared permissions:
+  Package [com.android.cameraextensions] (c73df0e):
+  Package [com.sec.android.diagmonagent] (f3c2a35):
+    declared permissions:
+  Package [com.android.localtransport] (861ec27):
+  Package [com.samsung.SMT.lang_th_th_f00] (6284841):
+  Package [com.google.android.overlay.gmsconfig.asi] (e4bf9d4):
+  Package [com.google.android.overlay.gmsconfig.gsa] (5771672):
+  Package [com.samsung.android.biometrics.app.setting] (cb7b96e):
+    declared permissions:
+  Package [com.samsung.android.smartface.overlay] (a1c27be):
+  Package [com.sec.spp.push] (b8caf6c):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.carrierdefaultapp] (a0b7f3b):
+    install permissions:
+      runtime permissions:
+  Package [com.android.credentialmanager] (2637096):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.aremojieditor] (73ee9ed):
+    declared permissions:
+    install permissions:
+  Package [com.android.theme.font.notoserifsource] (3029870):
+  Package [com.android.DeviceAsWebcam] (d348d96):
+    declared permissions:
+  Package [com.sec.android.app.myfiles] (5d0cb9c):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.proxyhandler] (456ad2b):
+    install permissions:
+  Package [com.google.android.safetycenter.resources] (d772b46):
+  Package [com.android.internal.display.cutout.emulation.waterfall] (13b285d):
+  Package [com.android.intentresolver] (4196a3):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.app.routines] (1a81f5e):
+    declared permissions:
+  Package [com.android.internal.systemui.navbar.transparent] (d2c53cc):
+  Package [com.sec.android.mimage.photoretouching] (48b2d2a):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.launcher] (17ee91):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.providers.contactkeys] (19779d1):
+  Package [com.google.android.connectivity.resources] (2a83782):
+    declared permissions:
+    install permissions:
+  Package [com.google.android.overlay.modules.permissioncontroller.forframework] (b30dec9):
+  Package [com.google.android.feedback] (e1e60ef):
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.printservice.recommendation] (66134da):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.apps.photos] (b009e01):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.meron.coffee] (8f99a94):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.syncadapters.calendar] (a7f7e3):
+    declared permissions:
+  Package [com.android.managedprovisioning] (39ec27e):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.setting.multisound] (49e32f5):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.spotify.music] (7c9ab52):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.aicore] (8c6a356):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.authfw] (d2b9e1b):
+    declared permissions:
+      com.samsung.android.fido.uaf.client.permissions.FIDO_UAF_CLIENT_PRIVILEGED: prot=signature
+      org.fidoalliance.uaf.permissions.FIDO_CLIENT: prot=normal
+      com.sec.android.fido.uaf.asm.permissions.FIDO_UAF_ASM: prot=signature|privileged
+      com.samsung.android.authfw.permissions.license.ACTIVATE_LICENSE: prot=normal
+      com.samsung.android.authfw.permissions.MONITOR_BIOMETRIC: prot=signature
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: prot=normal
+      com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE: prot=signature
+      com.samsung.android.authfw.permissions.preferences: prot=signature
+      com.samsung.android.authfw.permissions.PASS_STORAGE: prot=signature
+  Package [com.sec.android.app.googlelpaoverlay] (cbe3530):
+  Package [com.samsung.mediasearch] (23ec72e):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.ubercab] (922c365):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.sbrowser] (c677a48):
+    declared permissions:
+    install permissions:
+      com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE: granted=true
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+      runtime permissions:
+  Package [com.samsung.android.cloptimizer] (477483b):
+    declared permissions:
+  Package [com.samsung.android.wallpaper.live] (bfefa1d):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.documentsui] (2214a60):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.ConnectivityUxOverlay] (c0c3dbf):
+  Package [com.android.dreams.phototable] (2e44fd5):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.carkey] (8120578):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.app.interpreter] (35e25b7):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.mainline.telemetry] (6a23642):
+  Package [com.samsung.safetyinformation] (5c6fc89):
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.wifi.resources.wifilock] (d0e50bc):
+  Package [com.samsung.android.dialer] (59dd79d):
+    declared permissions:
+  Package [com.samsung.android.wifi.h2e.resources] (b04b3c1):
+  Package [com.facebook.katana] (f0deaa7):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+        com.facebook.messaging.notify.permissions.AndroidTNotificationsPermissionDialogActivity
+        com.facebook.notifications.permissions.AndroidTSystemDialogActivity
+        com.facebook.messaging.notify.permissions.plugins.postprompt.inboxnux.AndroidTNotificationPermissionPostPromptNuxActivity
+        com.facebook.messaging.notify.permissions.plugins.postprompt.inboxnux.BackgroundAccountNotificationNuxActivity
+        com.facebook.runtimepermissions.devicepermissionkit.katana.location.DPKDetectFromBackgroundActivity
+        com.facebook.runtimepermissions.RuntimePermissionsInternalActivity
+  Package [com.samsung.android.dqagent] (bcd0aa5):
+    declared permissions:
+  Package [com.samsung.android.messageguardsync] (84358de):
+    declared permissions:
+  Package [com.samsung.android.game.gos] (e9a1d3e):
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.drivingplus] (eba5cb5):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.devicediagnostics] (13d9fd8):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.forest] (b81662f):
+    declared permissions:
+  Package [com.samsung.android.sdk.ocr] (d266d6d):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.vepreload] (9c491f0):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.providers.partnerbookmarks] (c5b968f):
+  Package [com.samsung.android.hdmapp] (8cc2828):
+    declared permissions:
+  Package [com.android.role.notes.enabled] (6c4af08):
+  Package [com.samsung.android.internal.overlay.config.default_contextual_search] (ee2b0c6):
+  Package [com.samsung.android.app.moments] (679b3b4):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sem.factoryapp] (2c8364b):
+    declared permissions:
+  Package [com.samsung.SMT.lang_ru_ru_f00] (36908d9):
+  Package [com.samsung.android.app.camera.sticker.facearavatar.preload] (4bbc54c):
+  Package [com.android.wallpaper.livepicker] (ac6769b):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.beaconmanager] (55eda88):
+    declared permissions:
+  Package [com.samsung.internal.systemui.navbar.gestural_no_hint] (dab264d):
+  Package [com.android.apps.tag] (ad31e13):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.mainline.adservices] (7a55f4e):
+  Package [com.samsung.android.callassistant] (a03d205):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.ConnectivityOverlay] (6645168):
+  Package [com.samsung.android.stickercenter] (76deb58):
+    declared permissions:
+  Package [com.facebook.system] (fe11c14):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.mhs.ai] (78fb203):
+    install permissions:
+  Package [com.samsung.android.safetycenteroverlay] (1ce37fe):
+  Package [com.samsung.android.providers.media] (fb7be47):
+    declared permissions:
+  Package [com.sec.android.app.popupcalculator] (6d1d60a):
+    declared permissions:
+    install permissions:
+  Package [com.sec.android.soagent] (3ff46c):
+    declared permissions:
+  Package [com.google.android.gms.policy_sidecar_aps] (c276757):
+    declared permissions:
+  Package [com.samsung.android.providers.trash] (f1fd674):
+    declared permissions:
+  Package [com.google.android.healthconnect.controller] (2d5aeb0):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.zmeul.fabe] (51ea4f):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.bixby.ondevice.enus] (193d5ba):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.bixby.ondevice.itit] (150dc61):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.bixby.ondevice.roro] (2643474):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.CcInfo] (9c6b62b):
+    declared permissions:
+  Package [com.sec.android.app.quicktool] (a882d17):
+    declared permissions:
+  Package [com.samsung.android.ese] (85883b3):
+    declared permissions:
+  Package [com.samsung.android.fmm] (dcda80f):
+    declared permissions:
+  Package [com.samsung.android.gru] (ca1b65b):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.mdm] (1b3ea36):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.mdx] (796680d):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.mtp] (eefe586):
+    declared permissions:
+  Package [com.samsung.android.nfc] (ad15d55):
+    declared permissions:
+  Package [com.samsung.android.scs] (20aa23c):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.sia] (ef8ec4b):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.warrantycare] (b294ce6):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.unifiedwfc] (bfe6e7d):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.phone] (d28ac21):
+    declared permissions:
+  Package [com.samsung.android.audiomirroring] (3fb12be):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.appseparation] (11f035):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.app.vex.scanner] (9fae958):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.bixby.wakeup] (b3dd4de):
+    declared permissions:
+  Package [com.google.android.gms.supervision] (86cf0ed):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.app.updatecenter] (b18b70):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.honeyboard] (ed82f3f):
+    declared permissions:
+  Package [com.samsung.android.samsungpass] (972cc7a):
+    declared permissions:
+      com.samsung.android.samsungpass.permissions.MIGRATION: prot=signature
+    install permissions:
+      com.samsung.android.samsungpass.permissions.MIGRATION: granted=true
+      com.samsung.android.fido.uaf.client.permissions.FIDO_UAF_CLIENT_PRIVILEGED: granted=true
+      com.samsung.android.authfw.permissions.preferences: granted=true
+      com.samsung.android.authfw.permissions.PASS_STORAGE: granted=true
+      com.sec.android.fido.uaf.asm.permissions.FIDO_UAF_ASM: granted=true
+      com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE: granted=true
+      org.fidoalliance.uaf.permissions.FIDO_CLIENT: granted=true
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+      runtime permissions:
+  Package [com.sec.android.app.kidshome] (aea5221):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.knox.sandbox] (d1d7534):
+    declared permissions:
+    install permissions:
+  Package [com.android.storagemanager] (94e35a3):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.scloud] (faa805b):
+    declared permissions:
+  Package [com.samsung.android.app.soundpicker] (47fad15):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.app.sharelive] (4c9be59):
+    declared permissions:
+  Package [com.sec.app.RilErrorNotifier] (6668710):
+  Package [com.samsung.android.spayfw] (a2b800c):
+    declared permissions:
+  Package [com.android.bookmarkprovider] (aa781d0):
+  Package [com.android.settings] (8f1d440):
+    declared permissions:
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: prot=normal
+  Package [com.samsung.android.widget.pictureframe] (7e70585):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.app.newtrim] (759bae8):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.dbsc] (1ffade7):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.dkey] (e4ac032):
+    declared permissions:
+    install permissions:
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+      runtime permissions:
+  Package [com.samsung.android.dsms] (f6cc339):
+    install permissions:
+  Package [com.samsung.android.fast] (11d0b2c):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.lool] (29fe7a):
+    declared permissions:
+  Package [com.samsung.android.scpm] (a52d36a):
+    declared permissions:
+  Package [com.samsung.android.sead] (4cf9ed4):
+    declared permissions:
+  Package [com.samsung.android.ssco] (e73d2ad):
+    declared permissions:
+    install permissions:
+  Package [com.fitbit.FitbitMobile] (bed1556):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.app.notes] (51722e):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.sdhms] (51e391f):
+  Package [com.sec.android.mimage.avatarstickers] (3bb5a1e):
+    declared permissions:
+  Package [com.samsung.android.knox.analytics.uploader] (dc99906):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.overlay.modules.captiveportallogin.forframework] (adbc11d):
+  Package [com.google.android.projection.gearhead] (d6eb2ff):
+    declared permissions:
+  Package [com.sec.hearingadjust] (494c2de):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.qualcomm.location] (9b2f6d5):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.easyMover] (38975db):
+    declared permissions:
+    install permissions:
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+      runtime permissions:
+  Package [com.google.android.apps.turbo] (5b04fb6):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.bluelightfilter] (3142b8d):
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.bbc.bbcagent] (59234b1):
+    declared permissions:
+  Package [com.anthropic.claude] (8659f8e):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.visionintelligence] (603f45):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.singletake.service] (e388fa8):
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.hwresourceshare.storage] (38919a7):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.callbgprovider] (f4b1734):
+    declared permissions:
+  Package [com.sec.android.app.qsfastpairoverlay] (393abc0):
+  Package [com.knox.vpn.proxyhandler] (7855099):
+  Package [com.android.cts.ctsshim] (3e883b5):
+      runtime permissions:
+  Package [com.samsung.oda.service] (6fcf44d):
+    declared permissions:
+  Package [com.google.android.apps.wearables.maestro.companion] (cf1e116):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.vivaldi.browser] (cd261be):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.booking] (48c31ab):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.app.watchmanagerstub] (6eeea69):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.svcagent] (b2545c5):
+    declared permissions:
+  Package [com.google.android.overlay.modules.modulemetadata.forframework] (58ef9fa):
+  Package [com.sec.mhs.smarttethering] (b769fd3):
+    declared permissions:
+  Package [com.samsung.android.photoremasterservice] (cb7c372):
+    declared permissions:
+  Package [proton.android.pass] (1fc36b4):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.networkdiagnostic] (19de5e0):
+    declared permissions:
+  Package [com.samsung.android.shortcutbackupservice] (5b77d9e):
+    install permissions:
+      runtime permissions:
+  Package [com.android.microdroid.empty_payload] (5a01504):
+    install permissions:
+  Package [com.samsung.android.mcfserver] (15f59b):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.vpndialogs] (397a276):
+    install permissions:
+  Package [com.samsung.android.networkstack.tethering.overlay] (26ad4d):
+  Package [com.sec.facatfunction] (ea3ed22):
+    declared permissions:
+  Package [com.samsung.android.providers.contacts] (fc8e20d):
+    declared permissions:
+  Package [com.android.phone] (1498846):
+    declared permissions:
+  Package [com.android.shell] (2850cbe):
+    declared permissions:
+  Package [com.android.wallpaperbackup] (a5a2468):
+    install permissions:
+  Package [com.android.providers.blockednumber] (d42bc36):
+  Package [com.samsung.android.app.omcagent] (b784eca):
+    declared permissions:
+  Package [com.hiya.star] (dc5d103):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.overlay.modules.cellbroadcastservice] (7d622fe):
+  Package [com.android.providers.userdictionary] (f9fc4a4):
+  Package [com.sec.enterprise.knox.cloudmdm.smdms] (ced710a):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.apps.carrier.carrierwifi] (bca6bf1):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.apps.setupwizard.searchselector] (9147544):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.SMT.lang_pl_pl_f00] (acd00f3):
+  Package [com.wssyncmldm] (ca9c8e9):
+    declared permissions:
+  Package [com.samsung.android.vexfwk.service] (542cd70):
+    declared permissions:
+  Package [com.android.hotspot2.osulogin] (f4c30ba):
+    declared permissions:
+    install permissions:
+  Package [com.android.companiondevicemanager.auto_generated_characteristics_rro] (67d3361):
+  Package [com.google.android.gms.location.history] (3808347):
+      runtime permissions:
+  Package [com.android.internal.systemui.navbar.gestural] (af41d12):
+  Package [com.samsung.android.qmdservice] (20fe0ea):
+    declared permissions:
+  Package [com.samsung.android.dck.timesync] (b594763):
+  Package [com.android.location.fused] (7ac0551):
+  Package [com.google.android.overlay.modules.mediaprovider] (2723c6a):
+  Package [com.samsung.android.samsungpassautofill] (c22a1f8):
+    declared permissions:
+    install permissions:
+      com.samsung.android.samsungpass.permissions.MIGRATION: granted=true
+      com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE: granted=true
+      org.fidoalliance.uaf.permissions.FIDO_CLIENT: granted=true
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+      runtime permissions:
+  Package [com.sec.epdg] (1c01a78):
+    declared permissions:
+  Package [com.android.systemui] (d0517f4):
+    declared permissions:
+  Package [com.sec.android.app.personalization] (6463fdb):
+    declared permissions:
+  Package [com.samsung.android.skpm.agent] (80ef6bf):
+    declared permissions:
+  Package [com.google.android.apps.aiwallpapers] (b610b2f):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.ondevicepersonalization.services] (cca941a):
+    declared permissions:
+    install permissions:
+  Package [com.google.android.apps.youtube.music] (7b3f641):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.sait.sohservice] (255bf60):
+    declared permissions:
+  Package [com.android.bluetoothmidiservice] (aaf8c72):
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.sdk.handwriting] (3f02c79):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.facebook.appmanager] (f0ea778):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.app.clockface] (58037ca):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.aasaservice] (54c30d5):
+    declared permissions:
+  Package [com.samsung.android.smartsuggestions] (f2b217):
+    declared permissions:
+    install permissions:
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+      runtime permissions:
+  Package [com.android.traceur] (29ff622):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [ee.mtakso.client] (97825e9):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.cellbroadcastreceiver] (793119c):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.glasses.core] (c1a2b2b):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.allshare.service.mediashare] (3cb15c7):
+    declared permissions:
+  Package [com.wizzair.WizzAirApp] (632b65d):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.providers.factory] (311ec19):
+    declared permissions:
+  Package [com.samsung.android.cameraxservice] (8e754de):
+  Package [android.auto_generated_rro_product__] (f0c19cc):
+  Package [com.qti.qcc] (26f632a):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.cidmanager] (3defeb7):
+    declared permissions:
+  Package [com.samsung.android.agent.storage] (f887f6):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.camera] (db2f0cd):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.android.bluetooth] (32fbb1d):
+    declared permissions:
+  Package [com.samsung.android.app.clipboardedge] (4f49fce):
+    declared permissions:
+    install permissions:
+  Package [com.qualcomm.timeservice] (4ea6c85):
+    install permissions:
+  Package [com.samsung.ipservice] (bc3b192):
+    declared permissions:
+  Package [com.sec.android.app.magnifier] (eb0daa6):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.sec.android.application.csc] (b8321b6):
+    declared permissions:
+  Package [com.monotype.android.font.roboto] (fb36083):
+  Package [com.samsung.android.sdm.config] (bae987e):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.app.dressroom] (447718c):
+    declared permissions:
+  Package [com.samsung.SMT.lang_hi_in_f00] (2665cfb):
+  Package [com.google.android.photopicker] (c3b3956):
+    declared permissions:
+    install permissions:
+  Package [com.android.settings.supervision.overlay] (9fcd9ad):
+  Package [com.samsung.android.mcfds] (fd7073):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.mocca] (f01d2e):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.inputmethod.latin] (6bc4d4b):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.video] (763eb06):
+    declared permissions:
+  Package [com.samsung.android.wifi.softapqc.resources] (832a406):
+  Package [android.auto_generated_rro_vendor__] (f18f8f4):
+  Package [com.google.android.apps.restore] (d44fa92):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.mydevice] (a168919):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.youtube] (6d6728c):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.themestore] (71df4db):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.app.aodservice] (8c299b6):
+    declared permissions:
+  Package [com.microsoft.appmanager] (3668724):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.googlequicksearchbox] (6542453):
+    declared permissions:
+      com.google.android.apps.gsa.nga.permissions.EDIT_PREFERENCES: prot=signature
+    install permissions:
+      com.google.android.apps.gsa.nga.permissions.EDIT_PREFERENCES: granted=true
+      runtime permissions:
+  Package [com.samsung.android.incallui] (5e207be):
+    declared permissions:
+  Package [com.samsung.android.easysetup] (32196bc):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.rubin.app] (3d69b42):
+    declared permissions:
+  Package [com.google.android.apps.messaging] (f4c61c1):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.offline.languagemodel] (b0c0154):
+    declared permissions:
+    install permissions:
+  Package [com.google.android.verifier] (d7ec843):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.samsungapps] (56ff33e):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.inputshare] (b12aab5):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.billing] (af4c5d8):
+    declared permissions:
+    install permissions:
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+      runtime permissions:
+  Package [com.google.ar.core] (1d6a997):
+    install permissions:
+  Package [com.android.vending] (70ff3a2):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.intellivoiceservice] (2506169):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.marvin.talkback] (1a7231c):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.apps.accessibility.voiceaccess] (1f697e9):
+    declared permissions:
+  Package [com.samsung.android.vision.model] (cf9d4a1):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.app.telephonyui] (a8d601f):
+    declared permissions:
+  Package [com.google.android.as] (d408952):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.gm] (78776d9):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.apps.tachyon] (d078b4c):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.gallery3d] (bc1749b):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.facebook.services] (81c6d76):
+    declared permissions:
+    install permissions:
+  Package [com.google.android.euicc] (61e344d):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.mosey] (260ae50):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.mdx.kit] (d77ddec):
+    declared permissions:
+  Package [com.google.android.aicore] (aa005):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.as.oss] (e7bf768):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.audio.hearing.visualization.accessibility.scribe] (c227467):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.ambient.streaming] (f2718b2):
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.apps.bard] (2b555b9):
+    declared permissions:
+    install permissions:
+  Package [com.google.android.apps.maps] (7829fac):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.webview] (a9d5c7b):
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.accessory.budsunitemgr] (3fded6):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.privateaccesstokens] (a4fdd2d):
+    declared permissions:
+    install permissions:
+  Package [com.android.chrome] (6e194b0):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.gms] (7a3884f):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.tts] (4508bba):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [android.autoinstalls.config.samsung] (4658a61):
+  Package [com.google.android.partnersetup] (5cb3a74):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.spp.push] (945abe3):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.sec.android.app.myfiles] (d58635e):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.apps.photos] (4617155):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.authfw] (eb2e1ca):
+    declared permissions:
+      com.samsung.android.fido.uaf.client.permissions.FIDO_UAF_CLIENT_PRIVILEGED: prot=signature
+      org.fidoalliance.uaf.permissions.FIDO_CLIENT: prot=normal
+      com.sec.android.fido.uaf.asm.permissions.FIDO_UAF_ASM: prot=signature|privileged
+      com.samsung.android.authfw.permissions.license.ACTIVATE_LICENSE: prot=normal
+      com.samsung.android.authfw.permissions.MONITOR_BIOMETRIC: prot=signature
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: prot=normal
+      com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE: prot=signature
+      com.samsung.android.authfw.permissions.preferences: prot=signature
+      com.samsung.android.authfw.permissions.PASS_STORAGE: prot=signature
+  Package [com.samsung.android.carkey] (e378036):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.callassistant] (c7760d):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.facebook.system] (3152b10):
+    declared permissions:
+    install permissions:
+  Package [com.samsung.android.fmm] (2dad8c2):
+    declared permissions:
+  Package [com.samsung.android.scs] (2e259c5):
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.warrantycare] (2b4c28):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.appseparation] (1166027):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.bixby.wakeup] (d4596d3):
+    declared permissions:
+  Package [com.samsung.android.honeyboard] (d509e24):
+    declared permissions:
+  Package [com.samsung.android.samsungpass] (a5ce8be):
+    declared permissions:
+      com.samsung.android.samsungpass.permissions.MIGRATION: prot=signature
+    install permissions:
+      com.samsung.android.samsungpass.permissions.MIGRATION: granted=true
+      com.samsung.android.fido.uaf.client.permissions.FIDO_UAF_CLIENT_PRIVILEGED: granted=true
+      com.samsung.android.authfw.permissions.preferences: granted=true
+      com.samsung.android.authfw.permissions.PASS_STORAGE: granted=true
+      com.sec.android.fido.uaf.asm.permissions.FIDO_UAF_ASM: granted=true
+      com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE: granted=true
+      org.fidoalliance.uaf.permissions.FIDO_CLIENT: granted=true
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+      runtime permissions:
+  Package [com.samsung.android.scloud] (5b2e3fd):
+    declared permissions:
+  Package [com.samsung.android.spayfw] (6fe6589):
+    declared permissions:
+  Package [com.samsung.android.dkey] (b4988b1):
+    declared permissions:
+    install permissions:
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+      runtime permissions:
+  Package [com.samsung.android.lool] (4c7b210):
+    declared permissions:
+  Package [com.google.android.projection.gearhead] (63de022):
+    declared permissions:
+  Package [com.sec.android.easyMover] (6137170):
+    declared permissions:
+    install permissions:
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+      runtime permissions:
+  Package [com.google.android.apps.carrier.carrierwifi] (dc19c0f):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.apps.setupwizard.searchselector] (2d5827a):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.samsungpassautofill] (95d0021):
+    declared permissions:
+    install permissions:
+      com.samsung.android.samsungpass.permissions.MIGRATION: granted=true
+      com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE: granted=true
+      org.fidoalliance.uaf.permissions.FIDO_CLIENT: granted=true
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+      runtime permissions:
+  Package [com.facebook.appmanager] (1fa7b34):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.agent.storage] (7fb73a3):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.samsung.android.mcfds] (b4f9e1e):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+  Package [com.google.android.apps.restore] (312fb15):
+    declared permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE: granted=true
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      com.samsung.android.samsungpass.permissions.MIGRATION: granted=true
+      com.samsung.android.fido.uaf.client.permissions.FIDO_UAF_CLIENT_PRIVILEGED: granted=true
+      com.sec.android.fido.uaf.asm.permissions.FIDO_UAF_ASM: granted=true
+      com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE: granted=true
+      org.fidoalliance.uaf.permissions.FIDO_CLIENT: granted=true
+      com.samsung.android.pass.permissions.USE_PASS_SERVICE: granted=true
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+    install permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+    install permissions:
+      runtime permissions:
+Service permissions:
+    com.samsung.android.samsungpass/.passservice.PassService: com.samsung.android.pass.permissions.USE_PASS_SERVICE
+    com.samsung.android.authfw/.flow.FlowService: com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE
+    com.samsung.android.samsungpassautofill/.plugin.honeyboard.HoneyboardPlugIn: com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE
+    com.samsung.android.authfw/.client.OxygenUafService: org.fidoalliance.uaf.permissions.FIDO_CLIENT
+    com.samsung.android.samsungpass/.plugin.honeyboard.HoneyboardPlugIn: com.samsung.android.pass.permissions.MANAGE_PASS_SERVICE
+    com.samsung.android.authfw/.asm.AsmUafService: com.sec.android.fido.uaf.asm.permissions.FIDO_UAF_ASM
+    com.samsung.android.authfw/.pass.PassService: com.samsung.android.pass.permissions.USE_PASS_SERVICE
+10/08/2026 04:48: Set up omc permissions (firstBootOrUpgrade: true, needsOmcOrTssInit: true)
+10/24/26 8:43 AM: Set up omc permissions (firstBootOrUpgrade: true, needsOmcOrTssInit: false)

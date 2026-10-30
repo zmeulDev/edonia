@@ -9,10 +9,10 @@ class PermissionItem {
   final bool isGranted;
 
   PermissionItem({
-    required this.id, 
-    required this.label, 
-    required this.description, 
-    this.isGranted = false
+    required this.id,
+    required this.label,
+    required this.description,
+    this.isGranted = false,
   });
 
   PermissionItem copyWith({bool? isGranted}) {
@@ -26,20 +26,17 @@ class PermissionItem {
 }
 
 /// Provider that manages the status of all required permissions for Edonia
-class EnrollmentNotifier extends StateNotifier<List<PermissionItem>> {
-  EnrollmentNotifier() : super([]) {
-    initializePermissions();
-  }
-
-  void initializePermissions() {
-    state = [
+class EnrollmentNotifier extends Notifier<List<PermissionItem>> {
+  @override
+  List<PermissionItem> build() {
+    return [
       PermissionItem(
         id: 'usage_access',
         label: 'Usage Access',
         description: 'Allows Edonia to see which apps are running in the background.',
       ),
       PermissionItem(
-,        id: 'phone_state',
+        id: 'phone_state',
         label: 'Phone State',
         description: 'Necessary to map network data to specific app IDs.',
       ),
@@ -59,6 +56,6 @@ class EnrollmentNotifier extends StateNotifier<List<PermissionItem>> {
   }
 }
 
-final enrollmentProvider = StateNotifierProvider<EnrollmentNotifier, List<PermissionItem>>((ref) {
+final enrollmentProvider = NotifierProvider<EnrollmentNotifier, List<PermissionItem>>(() {
   return EnrollmentNotifier();
 });

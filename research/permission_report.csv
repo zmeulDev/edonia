@@ -1,0 +1,16 @@
+Package,Permission
+com.comarch.clm.mobileapp.petromro,      android.permission.ACCESS_ADSERVICES_TOPICS
+com.comarch.clm.mobileapp.petromro,      android.permission.POST_NOTIFICATIONS
+com.comarch.clm.mobileapp.petromro,      android.permission.ACCESS_FINE_LOCATION
+com.comarch.clm.mobileapp.petromro,      android.permission.ACCESS_LOCAL_NETWORK
+com.comarch.clm.mobileapp.petromro,      android.permission.FOREGROUND_SERVICE
+com.comarch.clm.mobileapp.petromro,      android.permission.RECEIVE_BOOT_COMPLETED
+com.comarch.clm.mobileapp.petromro,      android.permission.ACCESS_ADSERVICES_AD_ID
+com.comarch.clm.mobileapp.petromro,      android.permission.INTERNET
+com.comarch.clm.mobileapp.petromro,      android.permission.ACCESS_ADSERVICES_CUSTOM_AUDIENCE
+com.comarch.clm.mobileapp.petromro,      android.permission.ACCESS_COARSE_LOCATION
+com.comarch.clm.mobileapp.petromro,      android.permission.CALL_PHONE
+com.comarch.clm.mobileapp.petromro,      android.permission.ACCESS_NETWORK_STATE
+com.comarch.clm.mobileapp.petromro,      android.permission.CAMERA
+com.comarch.clm.mobileapp.petromro,      android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+com.comarch.clm.mobileapp.petromro,      android.permission.USE_FINGERPRINT
